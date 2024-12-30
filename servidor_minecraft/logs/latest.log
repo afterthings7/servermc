@@ -1,7 +1,7 @@
-[21:31:34] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[21:31:34] [ForkJoinPool-1-worker-2/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:31:34] [ForkJoinPool-1-worker-4/WARN]: Mod com_github_isaiahpatton_specialsource uses the version master-SNAPSHOT which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'master'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:31:35] [main/INFO]: Loading 48 mods:
+[21:50:15] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[21:50:15] [ForkJoinPool-1-worker-1/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:50:15] [ForkJoinPool-1-worker-4/WARN]: Mod com_github_isaiahpatton_specialsource uses the version master-SNAPSHOT which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'master'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:50:15] [main/INFO]: Loading 48 mods:
 	- cardboard 8
 	   \-- com_github_isaiahpatton_specialsource master-SNAPSHOT
 	- fabric-api 0.92.2+1.20.1
@@ -63,61 +63,61 @@
 	   \-- icommon 1.20.1
 	- java 17
 	- minecraft 1.20.1
-[21:31:35] [main/WARN]: Found 1 non-fabric mod:
+[21:50:15] [main/WARN]: Found 1 non-fabric mod:
 	- fabric-server-mc.1.20.1-loader.0.16.9-launcher.1.0.1.jar
-[21:31:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:31:35] [main/INFO]: Compatibility level set to JAVA_16
-[21:31:35] [main/INFO]: Compatibility level set to JAVA_17
-[21:31:35] [main/INFO]: Please wait, Scanning plugins for events...
-[21:31:37] [main/INFO]: Found: 52 (Took: 1773ms)
-[21:31:37] [main/INFO]: Loading Libraries...
-[21:31:37] [main/INFO]: Debug: Loading library paper-api-1.20.1-R0.1-20230921.165944-178.jar
-[21:31:37] [main/INFO]: Debug: Loading library sqlite-jdbc-3.41.0.0.jar
-[21:31:37] [main/INFO]: Debug: Loading library mysql-connector-j-8.0.32.jar
-[21:31:37] [main/INFO]: Debug: Loading library commons-lang-2.6.jar
-[21:31:37] [main/INFO]: Debug: Loading library commons-collections4-4.4.jar
-[21:31:37] [main/INFO]: Debug: Loading library commons-collections-3.2.1.jar
-[21:31:37] [main/INFO]: Debug: Loading library bungeecord-chat-1.16-R0.4.jar
-[21:31:37] [main/INFO]: Debug: Loading library adventure-api-4.14.0.jar
-[21:31:37] [main/INFO]: Debug: Loading library adventure-key-4.14.0.jar
-[21:31:37] [main/INFO]: Debug: Loading library adventure-text-serializer-gson-4.14.0.jar
-[21:31:37] [main/INFO]: Debug: Loading library adventure-text-serializer-legacy-4.14.0.jar
-[21:31:37] [main/INFO]: Debug: Loading library adventure-text-serializer-plain-4.14.0.jar
-[21:31:37] [main/INFO]: -------------------------------------------------
-[21:31:37] [main/INFO]:  iCommon - Isaiah's common library for mods.
-[21:31:37] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.20.1
-[21:31:37] [main/INFO]: -------------------------------------------------
-[21:31:37] [main/INFO]: Applying mixin: MixinMinecraftServer...
-[21:31:38] [main/INFO]: Applied 23 mixins.
-[21:31:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:31:43] [main/WARN]: Method overwrite conflict for getPlayer in bukkitfabric.mixins.json:network.handler.MixinSPNH_PlayerCommandPreprocessEvent_1_19 from mod cardboard, previously written by org.cardboardpowered.mixin.network.MixinServerPlayNetworkHandler. Skipping method.
-[21:31:44] [main/INFO]: 
-[21:31:44] [main/INFO]: Cardboard - CardboardPowered.org
-[21:31:44] [main/INFO]: 
-[21:31:44] [main/INFO]: Registered '7' iCommon events.
-[21:31:44] [main/INFO]: Cardboard mod Loaded.
-[21:31:44] [main/INFO]: iCommon Mod initialized.
-[21:31:44] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:31:45] [main/WARN]: Injection warning: LVT in net/minecraft/class_3225::method_14263(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;II)V has incompatible changes at opcode 358 in callback bukkitfabric.mixins.json:MixinServerPlayerInteractionManager from mod cardboard->@Inject::cb_3(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;F)V.
+[21:50:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:50:15] [main/INFO]: Compatibility level set to JAVA_16
+[21:50:15] [main/INFO]: Compatibility level set to JAVA_17
+[21:50:15] [main/INFO]: Please wait, Scanning plugins for events...
+[21:50:17] [main/INFO]: Found: 52 (Took: 1828ms)
+[21:50:17] [main/INFO]: Loading Libraries...
+[21:50:17] [main/INFO]: Debug: Loading library paper-api-1.20.1-R0.1-20230921.165944-178.jar
+[21:50:17] [main/INFO]: Debug: Loading library sqlite-jdbc-3.41.0.0.jar
+[21:50:17] [main/INFO]: Debug: Loading library mysql-connector-j-8.0.32.jar
+[21:50:17] [main/INFO]: Debug: Loading library commons-lang-2.6.jar
+[21:50:17] [main/INFO]: Debug: Loading library commons-collections4-4.4.jar
+[21:50:17] [main/INFO]: Debug: Loading library commons-collections-3.2.1.jar
+[21:50:17] [main/INFO]: Debug: Loading library bungeecord-chat-1.16-R0.4.jar
+[21:50:17] [main/INFO]: Debug: Loading library adventure-api-4.14.0.jar
+[21:50:17] [main/INFO]: Debug: Loading library adventure-key-4.14.0.jar
+[21:50:17] [main/INFO]: Debug: Loading library adventure-text-serializer-gson-4.14.0.jar
+[21:50:17] [main/INFO]: Debug: Loading library adventure-text-serializer-legacy-4.14.0.jar
+[21:50:17] [main/INFO]: Debug: Loading library adventure-text-serializer-plain-4.14.0.jar
+[21:50:18] [main/INFO]: -------------------------------------------------
+[21:50:18] [main/INFO]:  iCommon - Isaiah's common library for mods.
+[21:50:18] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.20.1
+[21:50:18] [main/INFO]: -------------------------------------------------
+[21:50:18] [main/INFO]: Applying mixin: MixinMinecraftServer...
+[21:50:18] [main/INFO]: Applied 23 mixins.
+[21:50:18] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:50:24] [main/WARN]: Method overwrite conflict for getPlayer in bukkitfabric.mixins.json:network.handler.MixinSPNH_PlayerCommandPreprocessEvent_1_19 from mod cardboard, previously written by org.cardboardpowered.mixin.network.MixinServerPlayNetworkHandler. Skipping method.
+[21:50:25] [main/INFO]: 
+[21:50:25] [main/INFO]: Cardboard - CardboardPowered.org
+[21:50:25] [main/INFO]: 
+[21:50:25] [main/INFO]: Registered '7' iCommon events.
+[21:50:25] [main/INFO]: Cardboard mod Loaded.
+[21:50:25] [main/INFO]: iCommon Mod initialized.
+[21:50:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:50:26] [main/WARN]: Injection warning: LVT in net/minecraft/class_3225::method_14263(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;II)V has incompatible changes at opcode 358 in callback bukkitfabric.mixins.json:MixinServerPlayerInteractionManager from mod cardboard->@Inject::cb_3(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;F)V.
  Expected: [F]
     Found: [I]
 Available: [I, Lnet/minecraft/class_2680;, I]
-[21:31:46] [main/INFO]: Loaded 7 recipes
-[21:31:46] [main/INFO]: Loaded 7 recipes
-[21:31:46] [main/INFO]: Loaded 1271 advancements
-[21:31:47] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.794 ms
-[21:31:47] [Server thread/INFO]: Setting IServer instance..
-[21:31:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:31:47] [Server thread/INFO]: Loading properties
-[21:31:47] [Server thread/INFO]: Default game type: SURVIVAL
-[21:31:47] [Server thread/INFO]: Generating keypair
-[21:31:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:31:47] [Server thread/INFO]: Using epoll channel type
-[21:31:47] [Server thread/INFO]: DEB: 1865
-[21:31:48] [Server thread/INFO]: This server is running Cardboard version git-3432c4c (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: null on null)
-[21:31:48] [Server thread/INFO]: Debug logging is disabled
-[21:31:48] [Server thread/INFO]: Loading Bukkit plugins...
-[21:31:48] [Server thread/FATAL]: Could not load 'plugins/paper-1.20.1-196.jar'
+[21:50:27] [main/INFO]: Loaded 7 recipes
+[21:50:27] [main/INFO]: Loaded 7 recipes
+[21:50:27] [main/INFO]: Loaded 1271 advancements
+[21:50:28] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.761 ms
+[21:50:28] [Server thread/INFO]: Setting IServer instance..
+[21:50:28] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:50:28] [Server thread/INFO]: Loading properties
+[21:50:28] [Server thread/INFO]: Default game type: SURVIVAL
+[21:50:28] [Server thread/INFO]: Generating keypair
+[21:50:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:50:28] [Server thread/INFO]: Using epoll channel type
+[21:50:28] [Server thread/INFO]: DEB: 1865
+[21:50:29] [Server thread/INFO]: This server is running Cardboard version git-3432c4c (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: null on null)
+[21:50:29] [Server thread/INFO]: Debug logging is disabled
+[21:50:29] [Server thread/INFO]: Loading Bukkit plugins...
+[21:50:29] [Server thread/FATAL]: Could not load 'plugins/paper-1.20.1-196.jar'
 org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:169) ~[Cardboard-1.20.jar:?]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:1191) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
@@ -130,11 +130,11 @@ org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 	... 9 more
-[21:31:48] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[21:31:51] [Server thread/WARN]: Legacy plugin ClearLag v1.0 does not specify an api-version.
-[21:31:51] [Server thread/INFO]: [STDOUT]: net/minecraft/class_2535
-[21:31:51] [Server thread/WARN]: Legacy plugin ClearLag v1.0 does not specify an api-version.
-[21:31:51] [Server thread/FATAL]: Could not load 'plugins/orebfuscator-plugin-5.5.2.jar'
+[21:50:29] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:50:32] [Server thread/WARN]: Legacy plugin ClearLag v1.0 does not specify an api-version.
+[21:50:32] [Server thread/INFO]: [STDOUT]: net/minecraft/class_2535
+[21:50:32] [Server thread/WARN]: Legacy plugin ClearLag v1.0 does not specify an api-version.
+[21:50:32] [Server thread/FATAL]: Could not load 'plugins/orebfuscator-plugin-5.5.2.jar'
 org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Please download and install ProtocolLib to run this plugin.
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:1313) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:1153) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
@@ -144,34 +144,34 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Pl
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[21:31:52] [Server thread/INFO]: Loading ClearLag v1.0
-[21:31:52] [Server thread/INFO]: Loading SkinsRestorer v15.5.1
-[21:31:52] [Server thread/INFO]: Loading OreAnnouncer v2.8.5
-[21:31:52] [Server thread/INFO]: Loading libraries of OreAnnouncer v2.8.5, this may take a while
-[21:31:52] [Server thread/INFO]: Verifying checksum for jar-relocator
-[21:31:52] [Server thread/INFO]: Verifying checksum for asm
-[21:31:52] [Server thread/INFO]: Verifying checksum for asm-commons
-[21:31:52] [Server thread/INFO]: Verifying checksum for gson
-[21:31:52] [Server thread/INFO]: Verifying checksum for jdbi3-core
-[21:31:52] [Server thread/INFO]: Verifying checksum for geantyref
-[21:31:52] [Server thread/INFO]: Verifying checksum for caffeine
-[21:31:52] [Server thread/INFO]: Verifying checksum for jdbi3-stringtemplate4
-[21:31:52] [Server thread/INFO]: Verifying checksum for ST4
-[21:31:52] [Server thread/INFO]: Verifying checksum for antlr-runtime
-[21:31:52] [Server thread/INFO]: Verifying checksum for jdbi3-sqlobject
-[21:31:52] [Server thread/INFO]: Verifying checksum for slf4j-api
-[21:31:52] [Server thread/INFO]: Verifying checksum for slf4j-simple
-[21:31:52] [Server thread/INFO]: Verifying checksum for HikariCP
-[21:31:52] [Server thread/INFO]: Verifying checksum for mariadb-java-client
-[21:31:52] [Server thread/INFO]: Verifying checksum for mysql-connector-j
-[21:31:52] [Server thread/INFO]: Verifying checksum for postgresql
-[21:31:52] [Server thread/INFO]: Verifying checksum for h2
-[21:31:52] [Server thread/INFO]: Loading Essentials v2.21.0-dev+151-f2af952
-[21:31:52] [Server thread/INFO]: Enabling SkinsRestorer v15.5.1
-[21:31:53] [Server thread/WARN]: @Final field field_9194:Ljava/util/Map; in bukkitfabric.mixins.json:MixinExplosion from mod cardboard should be final
-[21:31:53] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[21:31:54] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
-[21:31:54] [Server thread/FATAL]: An unexpected error occurred while starting the plugin. Please check the console for more details.
+[21:50:33] [Server thread/INFO]: Loading ClearLag v1.0
+[21:50:33] [Server thread/INFO]: Loading SkinsRestorer v15.5.1
+[21:50:33] [Server thread/INFO]: Loading OreAnnouncer v2.8.5
+[21:50:33] [Server thread/INFO]: Loading libraries of OreAnnouncer v2.8.5, this may take a while
+[21:50:33] [Server thread/INFO]: Verifying checksum for jar-relocator
+[21:50:33] [Server thread/INFO]: Verifying checksum for asm
+[21:50:33] [Server thread/INFO]: Verifying checksum for asm-commons
+[21:50:33] [Server thread/INFO]: Verifying checksum for gson
+[21:50:33] [Server thread/INFO]: Verifying checksum for jdbi3-core
+[21:50:33] [Server thread/INFO]: Verifying checksum for geantyref
+[21:50:33] [Server thread/INFO]: Verifying checksum for caffeine
+[21:50:33] [Server thread/INFO]: Verifying checksum for jdbi3-stringtemplate4
+[21:50:33] [Server thread/INFO]: Verifying checksum for ST4
+[21:50:33] [Server thread/INFO]: Verifying checksum for antlr-runtime
+[21:50:33] [Server thread/INFO]: Verifying checksum for jdbi3-sqlobject
+[21:50:33] [Server thread/INFO]: Verifying checksum for slf4j-api
+[21:50:33] [Server thread/INFO]: Verifying checksum for slf4j-simple
+[21:50:33] [Server thread/INFO]: Verifying checksum for HikariCP
+[21:50:33] [Server thread/INFO]: Verifying checksum for mariadb-java-client
+[21:50:33] [Server thread/INFO]: Verifying checksum for mysql-connector-j
+[21:50:33] [Server thread/INFO]: Verifying checksum for postgresql
+[21:50:33] [Server thread/INFO]: Verifying checksum for h2
+[21:50:33] [Server thread/INFO]: Loading Essentials v2.21.0-dev+151-f2af952
+[21:50:33] [Server thread/INFO]: Enabling SkinsRestorer v15.5.1
+[21:50:34] [Server thread/WARN]: @Final field field_9194:Ljava/util/Map; in bukkitfabric.mixins.json:MixinExplosion from mod cardboard should be final
+[21:50:35] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[21:50:35] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
+[21:50:35] [Server thread/FATAL]: An unexpected error occurred while starting the plugin. Please check the console for more details.
 java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
 	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
 	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
@@ -190,8 +190,8 @@ java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[21:31:54] [Server thread/WARN]: Updater was not initialized, a error occurred while starting the plugin. Forcing updater to initialize.
-[21:31:54] [Server thread/FATAL]: An unexpected error occurred while initializing the updater. Please check the console for more details.
+[21:50:35] [Server thread/WARN]: Updater was not initialized, a error occurred while starting the plugin. Forcing updater to initialize.
+[21:50:35] [Server thread/FATAL]: An unexpected error occurred while initializing the updater. Please check the console for more details.
 java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
 	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
 	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
@@ -210,43 +210,47 @@ java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[21:31:54] [Server thread/INFO]: 
-[21:31:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:31:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:31:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:31:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:31:54] [Server thread/INFO]: Preparing level "world"
-[21:31:54] [Server thread/INFO]: Setting IWorld for world "world"
-[21:31:55] [Server thread/INFO]: Setting IWorld for world "world_the_end"
-[21:31:57] [Server thread/INFO]: Setting IWorld for world "world_nether"
-[21:31:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:32:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:32:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:32:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:32:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:01] [Worker-Main-1/INFO]: Preparing spawn area: 19%
-[21:32:01] [Server thread/INFO]: Time elapsed: 4545 ms
-[21:32:01] [Server thread/INFO]: Preparing start region for world minecraft:the_end
-[21:32:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:32:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:32:03] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[21:32:03] [Server thread/INFO]: Time elapsed: 1707 ms
-[21:32:03] [Server thread/INFO]: Preparing start region for world minecraft:the_nether
-[21:32:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:32:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:32:05] [Server thread/INFO]: Time elapsed: 1922 ms
-[21:32:05] [Server thread/INFO]: Enabling ClearLag v1.0
-[21:32:05] [Server thread/INFO]: ClearLag Plugin has been enabled!
-[21:32:05] [Server thread/INFO]: Enabling OreAnnouncer v2.8.5
-[21:32:05] [Server thread/INFO]: Initializing OreAnnouncer v2.8.5
-[21:32:08] [Server thread/FATAL]: Error occurred while enabling OreAnnouncer v2.8.5 (Is it up to date?)
+[21:50:35] [Server thread/INFO]: 
+[21:50:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:50:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:50:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:50:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:50:35] [Server thread/INFO]: Preparing level "world"
+[21:50:35] [Server thread/INFO]: Setting IWorld for world "world"
+[21:50:36] [Server thread/INFO]: Setting IWorld for world "world_the_end"
+[21:50:38] [Server thread/INFO]: Setting IWorld for world "world_nether"
+[21:50:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:50:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:50:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:50:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:50:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:50:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[21:50:43] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[21:50:43] [Server thread/INFO]: Time elapsed: 5231 ms
+[21:50:43] [Server thread/INFO]: Preparing start region for world minecraft:the_end
+[21:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:45] [Worker-Main-2/INFO]: Preparing spawn area: 23%
+[21:50:46] [Server thread/INFO]: Time elapsed: 2354 ms
+[21:50:46] [Server thread/INFO]: Preparing start region for world minecraft:the_nether
+[21:50:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:50:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:50:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:50:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:50:48] [Worker-Main-3/INFO]: Preparing spawn area: 67%
+[21:50:48] [Server thread/INFO]: Time elapsed: 2115 ms
+[21:50:48] [Server thread/INFO]: Enabling ClearLag v1.0
+[21:50:48] [Server thread/INFO]: ClearLag Plugin has been enabled!
+[21:50:48] [Server thread/INFO]: Enabling OreAnnouncer v2.8.5
+[21:50:48] [Server thread/INFO]: Initializing OreAnnouncer v2.8.5
+[21:50:51] [Server thread/FATAL]: Error occurred while enabling OreAnnouncer v2.8.5 (Is it up to date?)
 java.lang.NoSuchMethodError: 'org.bukkit.plugin.java.JavaPlugin org.bukkit.plugin.java.PluginClassLoader.getPlugin()'
 	at co.aikar.timings.TimingsManager.getPluginByClassloader(TimingsManager.java:188) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
 	at co.aikar.timings.TimingsManager.getCommandTiming(TimingsManager.java:164) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
@@ -270,8 +274,8 @@ java.lang.NoSuchMethodError: 'org.bukkit.plugin.java.JavaPlugin org.bukkit.plugi
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[21:32:08] [Server thread/INFO]: Enabling Essentials v2.21.0-dev+151-f2af952
-[21:32:09] [Server thread/FATAL]: Error occurred while enabling Essentials v2.21.0-dev+151-f2af952 (Is it up to date?)
+[21:50:51] [Server thread/INFO]: Enabling Essentials v2.21.0-dev+151-f2af952
+[21:50:52] [Server thread/FATAL]: Error occurred while enabling Essentials v2.21.0-dev+151-f2af952 (Is it up to date?)
 java.lang.NullPointerException: Cannot invoke "net.ess3.provider.ServerStateProvider.isStopping()" because the return value of "com.earth2me.essentials.Essentials.getServerStateProvider()" is null
 	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:625) ~[?:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[Cardboard-1.20.jar:?]
@@ -288,79 +292,4 @@ java.lang.NullPointerException: Cannot invoke "net.ess3.provider.ServerStateProv
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[21:32:09] [Server thread/INFO]: Done (14.527s)! For help, type "help"
-[21:32:30] [User Authenticator #0/INFO]: UUID of player Th1ngsWASD is 66043ea6-1a9d-3e0f-a421-0eadd33ff3fa
-[21:32:31] [Server thread/INFO]: Th1ngsWASD[/[0:0:0:0:0:0:0:1%0]:50810] logged in with entity id 302 at (21.6889678609273, 70.0, -19.26986475045819)
-[21:32:31] [Server thread/INFO]: Th1ngsWASD joined the game
-[21:32:31] [Server thread/FATAL]: Could not pass event PlayerJoinEvent to SkinsRestorer v15.5.1
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:303) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:642) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:1625) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at com.javazilla.bukkitfabric.impl.BukkitEventFactory.callEvent(BukkitEventFactory.java:153) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.class_3324.handler$zzf000$cardboard$firePlayerJoinEvent(class_3324.java:1167) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3324.method_14570(class_3324.java:307) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_33800(class_3248.java:131) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_14384(class_3248.java:118) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.redirect$zle000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:1063) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
-	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
-	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
-	at net.skinsrestorer.shared.listeners.AdminInfoListenerAdapter.handleConnect(AdminInfoListenerAdapter.java:42) ~[?:?]
-	at net.skinsrestorer.bukkit.listener.AdminInfoListener.onPlayerJoin(AdminInfoListener.java:38) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[Cardboard-1.20.jar:?]
-	... 18 more
-[21:32:31] [Server thread/INFO]: Th1ngsWASD joined the game
-[21:33:16] [Server thread/INFO]: Th1ngsWASD issued server command: /plugins
-[21:35:56] [Server thread/INFO]: Th1ngsWASD issued server command: /cle
-[21:36:02] [Server thread/INFO]: Th1ngsWASD issued server command: /clearinventory
-[21:36:02] [Server thread/INFO]: [STDERR]: org.bukkit.command.CommandException: Cannot execute command 'clearinventory' in plugin Essentials v2.21.0-dev+151-f2af952 - plugin is disabled.
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:957)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at org.cardboardpowered.impl.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:61)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_2170.method_9249(class_2170.java:287)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_45010(class_3244.java:3237)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_44356(class_3244.java:1321)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_5386(class_1255.java:67)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3738.run(class_3738.java:18)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_18859(class_1255.java:156)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_4093.method_18859(class_4093.java:23)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_16075(class_1255.java:130)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_18857(class_1255.java:139)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:743)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
-[21:36:02] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:840)
-[21:40:21] [Server thread/WARN]: Unexpected exception while parsing console command "kick th1ngswasd"
-org.bukkit.command.CommandException: Cannot execute command 'kick' in plugin Essentials v2.21.0-dev+151-f2af952 - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:957) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1854) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.class_3176.method_13941(class_3176.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:284) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[21:50:52] [Server thread/INFO]: Done (16.302s)! For help, type "help"
