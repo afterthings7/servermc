@@ -1,7 +1,7 @@
-[08:03:27] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[08:03:27] [ForkJoinPool-1-worker-2/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[08:03:27] [ForkJoinPool-1-worker-4/WARN]: Mod com_github_isaiahpatton_specialsource uses the version master-SNAPSHOT which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'master'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[08:03:28] [main/INFO]: Loading 48 mods:
+[20:27:01] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[20:27:02] [ForkJoinPool-1-worker-2/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:27:02] [ForkJoinPool-1-worker-4/WARN]: Mod com_github_isaiahpatton_specialsource uses the version master-SNAPSHOT which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'master'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:27:02] [main/INFO]: Loading 48 mods:
 	- cardboard 8
 	   \-- com_github_isaiahpatton_specialsource master-SNAPSHOT
 	- fabric-api 0.92.2+1.20.1
@@ -63,147 +63,106 @@
 	   \-- icommon 1.20.1
 	- java 17
 	- minecraft 1.20.1
-[08:03:28] [main/WARN]: Found 1 non-fabric mod:
+[20:27:02] [main/WARN]: Found 1 non-fabric mod:
 	- fabric-server-mc.1.20.1-loader.0.16.9-launcher.1.0.1.jar
-[08:03:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[08:03:28] [main/INFO]: Compatibility level set to JAVA_16
-[08:03:28] [main/INFO]: Compatibility level set to JAVA_17
-[08:03:28] [main/INFO]: Loading Libraries...
-[08:03:28] [main/INFO]: Downloading io.papermc:paper-api:1.20.1-R0.1-20230921.165944-178...
-[08:03:29] [main/INFO]: Downloaded io.papermc:paper-api:1.20.1-R0.1-20230921.165944-178.
-[08:03:29] [main/INFO]: Debug: Loading library paper-api-1.20.1-R0.1-20230921.165944-178.jar
-[08:03:29] [main/INFO]: Downloading org.xerial:sqlite-jdbc:3.41.0.0...
-[08:03:29] [main/INFO]: Downloaded org.xerial:sqlite-jdbc:3.41.0.0.
-[08:03:29] [main/INFO]: Debug: Loading library sqlite-jdbc-3.41.0.0.jar
-[08:03:29] [main/INFO]: Downloading com.mysql:mysql-connector-j:8.0.32...
-[08:03:29] [main/INFO]: Downloaded com.mysql:mysql-connector-j:8.0.32.
-[08:03:29] [main/INFO]: Debug: Loading library mysql-connector-j-8.0.32.jar
-[08:03:29] [main/INFO]: Downloading commons-lang:commons-lang:2.6...
-[08:03:29] [main/INFO]: Downloaded commons-lang:commons-lang:2.6.
-[08:03:29] [main/INFO]: Debug: Loading library commons-lang-2.6.jar
-[08:03:29] [main/INFO]: Downloading org.apache.commons:commons-collections4:4.4...
-[08:03:29] [main/INFO]: Downloaded org.apache.commons:commons-collections4:4.4.
-[08:03:29] [main/INFO]: Debug: Loading library commons-collections4-4.4.jar
-[08:03:29] [main/INFO]: Downloading commons-collections:commons-collections:3.2.1...
-[08:03:29] [main/INFO]: Downloaded commons-collections:commons-collections:3.2.1.
-[08:03:29] [main/INFO]: Debug: Loading library commons-collections-3.2.1.jar
-[08:03:29] [main/INFO]: Downloading net.md-5:bungeecord-chat:1.16-R0.4...
-[08:03:29] [main/INFO]: Downloaded net.md-5:bungeecord-chat:1.16-R0.4.
-[08:03:29] [main/INFO]: Debug: Loading library bungeecord-chat-1.16-R0.4.jar
-[08:03:29] [main/INFO]: Downloading net.kyori:adventure-api:4.14.0...
-[08:03:29] [main/INFO]: Downloaded net.kyori:adventure-api:4.14.0.
-[08:03:29] [main/INFO]: The checksum of 'adventure-api-4.14.0.jar' (e8f089092c77caaa0b0fce9ee7c309200437f9e1) has matched.
-[08:03:29] [main/INFO]: Debug: Loading library adventure-api-4.14.0.jar
-[08:03:29] [main/INFO]: Downloading net.kyori:adventure-key:4.14.0...
-[08:03:29] [main/INFO]: Downloaded net.kyori:adventure-key:4.14.0.
-[08:03:29] [main/INFO]: The checksum of 'adventure-key-4.14.0.jar' (ad2efeebd026dabceec32e31573c62e0188d7aeb) has matched.
-[08:03:29] [main/INFO]: Debug: Loading library adventure-key-4.14.0.jar
-[08:03:29] [main/INFO]: Downloading net.kyori:adventure-text-serializer-gson:4.14.0...
-[08:03:29] [main/INFO]: Downloaded net.kyori:adventure-text-serializer-gson:4.14.0.
-[08:03:29] [main/INFO]: The checksum of 'adventure-text-serializer-gson-4.14.0.jar' (8fa5e6b7caadae923b0cd0a9c78d5128a4bff1e0) has matched.
-[08:03:29] [main/INFO]: Debug: Loading library adventure-text-serializer-gson-4.14.0.jar
-[08:03:29] [main/INFO]: Downloading net.kyori:adventure-text-serializer-legacy:4.14.0...
-[08:03:29] [main/INFO]: Downloaded net.kyori:adventure-text-serializer-legacy:4.14.0.
-[08:03:29] [main/INFO]: The checksum of 'adventure-text-serializer-legacy-4.14.0.jar' (d35758e445d7f42b60d1f4cb023e1395a9093dc5) has matched.
-[08:03:29] [main/INFO]: Debug: Loading library adventure-text-serializer-legacy-4.14.0.jar
-[08:03:29] [main/INFO]: Downloading net.kyori:adventure-text-serializer-plain:4.14.0...
-[08:03:29] [main/INFO]: Downloaded net.kyori:adventure-text-serializer-plain:4.14.0.
-[08:03:29] [main/INFO]: The checksum of 'adventure-text-serializer-plain-4.14.0.jar' (40ef21a25514b5c98b25e6feb353f51a17dddae2) has matched.
-[08:03:29] [main/INFO]: Debug: Loading library adventure-text-serializer-plain-4.14.0.jar
-[08:03:30] [main/INFO]: -------------------------------------------------
-[08:03:30] [main/INFO]:  iCommon - Isaiah's common library for mods.
-[08:03:30] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.20.1
-[08:03:30] [main/INFO]: -------------------------------------------------
-[08:03:30] [main/INFO]: Applying mixin: MixinMinecraftServer...
-[08:03:30] [main/INFO]: Applied 23 mixins.
-[08:03:30] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[08:03:36] [main/WARN]: Method overwrite conflict for getPlayer in bukkitfabric.mixins.json:network.handler.MixinSPNH_PlayerCommandPreprocessEvent_1_19 from mod cardboard, previously written by org.cardboardpowered.mixin.network.MixinServerPlayNetworkHandler. Skipping method.
-[08:03:37] [main/INFO]: 
-[08:03:37] [main/INFO]: Cardboard - CardboardPowered.org
-[08:03:37] [main/INFO]: 
-[08:03:37] [main/INFO]: Registered '7' iCommon events.
-[08:03:37] [main/INFO]: Cardboard mod Loaded.
-[08:03:38] [main/INFO]: iCommon Mod initialized.
-[08:03:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:03:38] [main/WARN]: Injection warning: LVT in net/minecraft/class_3225::method_14263(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;II)V has incompatible changes at opcode 358 in callback bukkitfabric.mixins.json:MixinServerPlayerInteractionManager from mod cardboard->@Inject::cb_3(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;F)V.
+[20:27:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:27:02] [main/INFO]: Compatibility level set to JAVA_16
+[20:27:02] [main/INFO]: Compatibility level set to JAVA_17
+[20:27:02] [main/INFO]: Please wait, Scanning plugins for events...
+[20:27:02] [main/INFO]: Found: 0 (Took: 1ms)
+[20:27:02] [main/INFO]: Loading Libraries...
+[20:27:02] [main/INFO]: Debug: Loading library paper-api-1.20.1-R0.1-20230921.165944-178.jar
+[20:27:02] [main/INFO]: Debug: Loading library sqlite-jdbc-3.41.0.0.jar
+[20:27:02] [main/INFO]: Debug: Loading library mysql-connector-j-8.0.32.jar
+[20:27:02] [main/INFO]: Debug: Loading library commons-lang-2.6.jar
+[20:27:02] [main/INFO]: Debug: Loading library commons-collections4-4.4.jar
+[20:27:02] [main/INFO]: Debug: Loading library commons-collections-3.2.1.jar
+[20:27:02] [main/INFO]: Debug: Loading library bungeecord-chat-1.16-R0.4.jar
+[20:27:02] [main/INFO]: Debug: Loading library adventure-api-4.14.0.jar
+[20:27:02] [main/INFO]: Debug: Loading library adventure-key-4.14.0.jar
+[20:27:02] [main/INFO]: Debug: Loading library adventure-text-serializer-gson-4.14.0.jar
+[20:27:02] [main/INFO]: Debug: Loading library adventure-text-serializer-legacy-4.14.0.jar
+[20:27:02] [main/INFO]: Debug: Loading library adventure-text-serializer-plain-4.14.0.jar
+[20:27:03] [main/INFO]: -------------------------------------------------
+[20:27:03] [main/INFO]:  iCommon - Isaiah's common library for mods.
+[20:27:03] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.20.1
+[20:27:03] [main/INFO]: -------------------------------------------------
+[20:27:03] [main/INFO]: Applying mixin: MixinMinecraftServer...
+[20:27:03] [main/INFO]: Applied 23 mixins.
+[20:27:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:27:09] [main/WARN]: Method overwrite conflict for getPlayer in bukkitfabric.mixins.json:network.handler.MixinSPNH_PlayerCommandPreprocessEvent_1_19 from mod cardboard, previously written by org.cardboardpowered.mixin.network.MixinServerPlayNetworkHandler. Skipping method.
+[20:27:10] [main/INFO]: 
+[20:27:10] [main/INFO]: Cardboard - CardboardPowered.org
+[20:27:10] [main/INFO]: 
+[20:27:10] [main/INFO]: Registered '7' iCommon events.
+[20:27:10] [main/INFO]: Cardboard mod Loaded.
+[20:27:11] [main/INFO]: iCommon Mod initialized.
+[20:27:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:27:11] [main/WARN]: Injection warning: LVT in net/minecraft/class_3225::method_14263(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;II)V has incompatible changes at opcode 358 in callback bukkitfabric.mixins.json:MixinServerPlayerInteractionManager from mod cardboard->@Inject::cb_3(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;F)V.
  Expected: [F]
     Found: [I]
 Available: [I, Lnet/minecraft/class_2680;, I]
-[08:03:38] [main/INFO]: Found new data pack fabric, loading it automatically
-[08:03:39] [main/INFO]: Loaded 7 recipes
-[08:03:39] [main/INFO]: Loaded 7 recipes
-[08:03:39] [main/INFO]: Loaded 1271 advancements
-[08:03:40] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.971 ms
-[08:03:40] [Server thread/INFO]: Setting IServer instance..
-[08:03:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[08:03:40] [Server thread/INFO]: Loading properties
-[08:03:40] [Server thread/INFO]: Default game type: SURVIVAL
-[08:03:40] [Server thread/INFO]: Generating keypair
-[08:03:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:03:40] [Server thread/INFO]: Using epoll channel type
-[08:03:40] [Server thread/INFO]: DEB: 1865
-[08:03:40] [Server thread/INFO]: This server is running Cardboard version git-3432c4c (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: null on null)
-[08:03:40] [Server thread/INFO]: Debug logging is disabled
-[08:03:40] [Server thread/INFO]: Loading Bukkit plugins...
-[08:03:41] [Server thread/INFO]: 
-[08:03:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:03:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:03:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:03:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:03:41] [Server thread/INFO]: Preparing level "world"
-[08:03:41] [Server thread/INFO]: Setting IWorld for world "world"
-[08:03:41] [Server thread/INFO]: Setting IWorld for world "world_the_end"
-[08:03:44] [Server thread/INFO]: Setting IWorld for world "world_nether"
-[08:03:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:03:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:03:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:03:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:03:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:03:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:03:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:03:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:03:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:03:48] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[08:03:48] [Worker-Main-1/INFO]: Preparing spawn area: 74%
-[08:03:49] [Server thread/INFO]: Time elapsed: 4690 ms
-[08:03:49] [Server thread/INFO]: Preparing start region for world minecraft:the_end
-[08:03:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:03:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:03:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:03:50] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[08:03:51] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[08:03:51] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[08:03:52] [Worker-Main-3/INFO]: Preparing spawn area: 53%
-[08:03:52] [Worker-Main-3/INFO]: Preparing spawn area: 90%
-[08:03:52] [Server thread/INFO]: Time elapsed: 3610 ms
-[08:03:52] [Server thread/INFO]: Preparing start region for world minecraft:the_nether
-[08:03:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:03:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:03:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:03:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:03:54] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:03:55] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[08:03:55] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[08:03:56] [Worker-Main-1/INFO]: Preparing spawn area: 3%
-[08:03:56] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[08:03:57] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[08:03:57] [Worker-Main-3/INFO]: Preparing spawn area: 13%
-[08:03:58] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[08:03:58] [Worker-Main-1/INFO]: Preparing spawn area: 20%
-[08:03:59] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[08:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 29%
-[08:04:00] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[08:04:00] [Worker-Main-2/INFO]: Preparing spawn area: 39%
-[08:04:01] [Worker-Main-3/INFO]: Preparing spawn area: 44%
-[08:04:01] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[08:04:02] [Worker-Main-3/INFO]: Preparing spawn area: 52%
-[08:04:02] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[08:04:03] [Worker-Main-1/INFO]: Preparing spawn area: 63%
-[08:04:03] [Worker-Main-1/INFO]: Preparing spawn area: 69%
-[08:04:04] [Worker-Main-3/INFO]: Preparing spawn area: 73%
-[08:04:04] [Worker-Main-3/INFO]: Preparing spawn area: 79%
-[08:04:05] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[08:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 90%
-[08:04:06] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[08:04:06] [Server thread/INFO]: Time elapsed: 13755 ms
-[08:04:06] [Server thread/INFO]: Done (24.737s)! For help, type "help"
+[20:27:12] [main/INFO]: Loaded 7 recipes
+[20:27:12] [main/INFO]: Loaded 7 recipes
+[20:27:13] [main/INFO]: Loaded 1271 advancements
+[20:27:13] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.338 ms
+[20:27:13] [Server thread/INFO]: Setting IServer instance..
+[20:27:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:27:13] [Server thread/INFO]: Loading properties
+[20:27:13] [Server thread/INFO]: Default game type: SURVIVAL
+[20:27:13] [Server thread/INFO]: Generating keypair
+[20:27:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:27:13] [Server thread/INFO]: Using epoll channel type
+[20:27:13] [Server thread/INFO]: DEB: 1865
+[20:27:14] [Server thread/INFO]: This server is running Cardboard version git-3432c4c (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: null on null)
+[20:27:14] [Server thread/INFO]: Debug logging is disabled
+[20:27:14] [Server thread/INFO]: Loading Bukkit plugins...
+[20:27:14] [Server thread/INFO]: 
+[20:27:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:27:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:27:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:27:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:27:14] [Server thread/INFO]: Preparing level "world"
+[20:27:14] [Server thread/INFO]: Setting IWorld for world "world"
+[20:27:14] [Server thread/INFO]: Setting IWorld for world "world_nether"
+[20:27:17] [Server thread/INFO]: Setting IWorld for world "world_the_end"
+[20:27:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:27:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:27:23] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[20:27:23] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[20:27:24] [Server thread/INFO]: Time elapsed: 6626 ms
+[20:27:24] [Server thread/INFO]: Preparing start region for world minecraft:the_nether
+[20:27:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:26] [Worker-Main-2/INFO]: Preparing spawn area: 78%
+[20:27:26] [Server thread/INFO]: Time elapsed: 2619 ms
+[20:27:26] [Server thread/INFO]: Preparing start region for world minecraft:the_end
+[20:27:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:27:28] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[20:27:29] [Worker-Main-3/INFO]: Preparing spawn area: 91%
+[20:27:29] [Server thread/INFO]: Time elapsed: 2537 ms
+[20:27:29] [Server thread/INFO]: Done (14.635s)! For help, type "help"
+[20:27:59] [User Authenticator #0/INFO]: UUID of player Th1ngsWASD is 66043ea6-1a9d-3e0f-a421-0eadd33ff3fa
+[20:27:59] [Server thread/INFO]: Th1ngsWASD[/[0:0:0:0:0:0:0:1%0]:54062] logged in with entity id 329 at (21.212454612386693, 71.0, -2.1256120668513874)
+[20:27:59] [Server thread/INFO]: Th1ngsWASD joined the game
+[20:27:59] [Server thread/INFO]: Th1ngsWASD joined the game
+[20:28:13] [Server thread/INFO]: Th1ngsWASD was slain by Zombie
+[20:28:39] [Server thread/INFO]: Made th1serveo.net:42929 a server operator
+[20:28:54] [Server thread/INFO]: Made Th1ngsWASD a server operator
