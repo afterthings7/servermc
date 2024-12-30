@@ -1,3 +1,3 @@
-auto-clear-interval: 299
-warning-message: "[ClearLag] Trash will be deleted in %time% minutes."
-final-message: "[ClearLag] %count% items have been cleared from the world."
+auto-clear-interval: 400
+warning-message: "[ClearLag] Toda la basura sera borrada en %time% minutos."
+final-message: "[ClearLag] %count% objetos fueron limpiados del server para mas optimizacion."
