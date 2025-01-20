@@ -407,3 +407,4 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [06:58:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
 [06:58:53] [Worker-Main-9/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [07:08:31] [Server thread/INFO]: Named entity class_1564['Rumak the Dark'/3632, l='ServerLevel[world]', x=-565.55, y=98.00, z=2359.74] died: Rumak the Dark was slain by Husk
+[07:22:41] [Worker-Main-19/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
