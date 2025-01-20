@@ -1,34 +1,309 @@
-[09:22:07] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[09:22:07] [ForkJoinPool-1-worker-1/WARN]: Mod mr_reds_morestructures uses the version 1.0.8R which isn't compatible with Loader's extended semantic version format (Could not parse version number component '8R'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[09:22:07] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[09:22:07] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[09:26:28] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[09:26:29] [ForkJoinPool-1-worker-2/WARN]: Mod mr_reds_morestructures uses the version 1.0.8R which isn't compatible with Loader's extended semantic version format (Could not parse version number component '8R'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[09:26:29] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[09:26:29] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 12
-[09:22:07] [main/WARN]: Mod resolution failed
-[09:22:07] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE better_totem_of_undying 2.0.1 {depends cerbons_api @ [>=1.1.0]}, ROOT_FORCELOAD_SINGLE better_totem_of_undying 2.0.1]
-[09:22:07] [main/INFO]: Reason: [HARD_DEP better_totem_of_undying 2.0.1 {depends cerbons_api @ [>=1.1.0]}, HARD_DEP betterfortresses 1.20-Fabric-2.0.6 {depends yungsapi @ [>=1.20-Fabric-4.0.1]}, HARD_DEP bettermineshafts 1.20-Fabric-4.0.4 {depends yungsapi @ [>=1.20-Fabric-4.0.1]}, HARD_DEP charmofundying 6.5.0+1.20.1 {depends trinkets @ [*]}, HARD_DEP ctov 3.4.11 {depends lithostitched @ [>=1.4]}, HARD_DEP ribbits 1.20.1-Fabric-3.0.2 {depends yungsapi @ [>=1.20-Fabric-4.0.6]}, HARD_DEP torchesntrinkets 0.2.1-1.20.1-4 {depends trinkets @ [*]}, HARD_DEP torchesntrinkets 0.2.1-1.20.1-4 {depends radiantgear @ [*]}]
-[09:22:07] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, entity_model_features, fabric-keybindings-v0, entity_texture_features, ambientsounds, mousetweaks, fabric-screen-api-v1, fabric-renderer-indigo, effective, eatinganimationid, brb, fabric-sound-api-v1, fabric-rendering-v0, fallingleaves, fabric-rendering-v1, fabric-key-binding-api-v1, fabric-model-loading-api-v1, betterthirdperson, realcamera, make_bubbles_pop, continuity, animatica, fabric-client-tags-api-v1, enhancedblockentities, visuality, fabric-blockrenderlayer-v1, fabric-renderer-registries-v1, fabric-models-v0, explosiveenhancement, sodiumdynamiclights, presencefootsteps]
-[09:22:07] [main/INFO]: Fix: add [add:cerbons_api 1.1.0 ([[1.1.0,∞)]), add:yungsapi 1.20-Fabric-4.0.6 ([[1.20-Fabric-4.0.6,∞)]), add:trinkets 1 ([(-∞,∞)]), add:lithostitched 1.4 ([[1.4,∞)]), add:radiantgear 1 ([(-∞,∞)])], remove [], replace []
-[09:22:07] [main/ERROR]: Incompatible mods found!
-net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
-A potential solution has been determined, this may resolve your problem:
-	 - Install cerbons_api, version 1.1.0 or later.
-	 - Install yungsapi, version 1.20-Fabric-4.0.6 or later.
-	 - Install trinkets, any version.
-	 - Install lithostitched, version 1.4 or later.
-	 - Install radiantgear, any version.
-More details:
-	 - Mod 'Better Totem of Undying' (better_totem_of_undying) 2.0.1 requires version 1.1.0 or later of cerbons_api, which is missing!
-	 - Mod 'YUNG's Better Nether Fortresses' (betterfortresses) 1.20-Fabric-2.0.6 requires version 1.20-Fabric-4.0.1 or later of yungsapi, which is missing!
-	 - Mod 'YUNG's Better Mineshafts' (bettermineshafts) 1.20-Fabric-4.0.4 requires version 1.20-Fabric-4.0.1 or later of yungsapi, which is missing!
-	 - Mod 'Charm of Undying' (charmofundying) 6.5.0+1.20.1 requires any version of trinkets, which is missing!
-	 - Mod 'ChoiceTheorem's Overhauled Village' (ctov) 3.4.11 requires version 1.4 or later of lithostitched, which is missing!
-	 - Mod 'Ribbits' (ribbits) 1.20.1-Fabric-3.0.2 requires version 1.20-Fabric-4.0.6 or later of yungsapi, which is missing!
-	 - Mod 'Torches 'n' Trinkets' (torchesntrinkets) 0.2.1-1.20.1-4 requires any version of trinkets, which is missing!
-	 - Mod 'Torches 'n' Trinkets' (torchesntrinkets) 0.2.1-1.20.1-4 requires any version of radiantgear, which is missing!
-	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:196) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.16.3.jar:?]
+[09:26:29] [main/INFO]: Loading 163 mods:
+	- amendments 1.20-1.2.14
+	- appleskin 2.5.1+mc1.20
+	- aquamirae 6
+	- architectury 9.2.14
+	- better_totem_of_undying 2.0.1
+	- betterfortresses 1.20-Fabric-2.0.6
+	   \-- org_reflections_reflections 0.10.2
+	- bettermineshafts 1.20-Fabric-4.0.4
+	- bettervillage 3.2.0
+	- biomesoplenty 19.0.0.94
+	- brutalbosses 1.20.1-7.3
+	- bushierflowers 0.0.3-1.20.1
+	- cardinal-components 5.2.3
+	   |-- cardinal-components-base 5.2.3
+	   |-- cardinal-components-block 5.2.3
+	   |-- cardinal-components-chunk 5.2.3
+	   |-- cardinal-components-entity 5.2.3
+	   |-- cardinal-components-item 5.2.3
+	   |-- cardinal-components-level 5.2.3
+	   |-- cardinal-components-scoreboard 5.2.3
+	   \-- cardinal-components-world 5.2.3
+	- cavedust 1.4.1
+	   \-- kirin 1.15.0
+	- cerbons_api 1.1.0
+	- charmofundying 6.5.0+1.20.1
+	   \-- spectrelib 0.13.15+1.20.1
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- cobweb 1.0.1
+	- collective 7.87
+	- creativecore 2.12.24
+	   \-- net_minecraftforge_eventbus 6.0.3
+	- ctov 3.4.11
+	- cupboard 1.20.1-2.7
+	- diagonalfences 8.1.5
+	   \-- diagonalblocks 8.0.6
+	- dungeons_arise 2.1.57
+	- dungeons_arise_seven_seas 1.0.2
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- ecologics 2.2.0
+	- entityculling 1.7.2
+	- explorify 1.6.2
+	- fabric-api 0.92.3+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.65+df3654b377
+	   |-- fabric-content-registries-v0 4.0.12+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.1+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.5+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.3+13a40c6677
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.13+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.2+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.46+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.51+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.12+13a40c6677
+	   |-- fabric-networking-v0 0.3.52+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.4+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.22+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.4+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.11+fb82e9d777
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.31+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- farmersdelight 1.20.1-2.2.5+refabricated
+	   |-- mm 2.3
+	   |-- porting_lib_accessors 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_base 2.3.8+1.20.1
+	   |    |-- porting_lib_attributes 2.3.8+1.20.1
+	   |    |-- porting_lib_common 2.3.8+1.20.1
+	   |    |-- porting_lib_core 2.3.8+1.20.1
+	   |    |-- porting_lib_entity 2.3.8+1.20.1
+	   |    |-- porting_lib_extensions 2.3.8+1.20.1
+	   |    |-- porting_lib_fluids 2.3.8+1.20.1
+	   |    |-- porting_lib_gui_utils 2.3.8+1.20.1
+	   |    |-- porting_lib_mixin_extensions 2.3.8+1.20.1
+	   |    |-- porting_lib_transfer 2.3.8+1.20.1
+	   |    |-- porting_lib_utility 2.3.8+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_config 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_lazy_registration 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_loot 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_networking 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_recipe_book_categories 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_tags 3.0
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   \-- porting_lib_tool_actions 2.3.8+1.20.1
+	        \-- porting_lib_core 2.3.8+1.20.1
+	- forgeconfigapiport 8.0.1
+	- ftbessentials 2001.2.2
+	- ftblibrary 2001.2.7
+	- ftbultimine 2001.1.5
+	- geckolib 4.7
+	   \-- com_eliotlash_mclib_mclib 20
+	- glitchcore 0.0.1.1
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- immersive_weathering 1.20.1-2.0.3
+	- incendium 5.3.5
+	- infinity-cave 0.4
+	- jade 11.12.0+fabric
+	- java 17
+	- jei 15.20.0.106
+	- libraryferret 4.0.0
+	- lithostitched 1.4
+	- mcwwindows 2.3.0
+	- mes 1.3.4-1.20-fabric
+	- midnightlib 1.4.1
+	- minecraft 1.20.1
+	- mns 1.0.3-1.20-fabric
+	- moonlight 1.20-2.13.51
+	- moremobvariants 1.3.1
+	- mr_blooming_biosphere 1.1.0
+	- mr_dungeons_andtaverns 3.0.3.f
+	- mr_reds_morestructures 1.0.8R
+	- mr_tidal_towns 1.3.4
+	- mr_true_ending 1-v1.1.0c
+	- mvs 4.1.4-1.20-fabric
+	- naturalist 4.0.3
+	- netheriteextras 0.2.2+mc1.20.1
+	- notenoughanimations 1.9.1
+	- nullscape 1.2.7
+	- obscure_api 16
+	- puzzleslib 8.1.25
+	   \-- puzzlesaccessapi 8.0.7
+	- radiantgear 2.1.6+1.20.1
+	- repurposed_structures 7.1.15+1.20.1-fabric
+	- ribbits 1.20.1-Fabric-3.0.2
+	- sereneseasons 9.1.0.0
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- soul_fire_d 4.0.10
+	- sound_physics_remastered 1.20.1-1.4.8
+	- supplementaries 1.20-3.1.11
+	   \-- mixinsquared 0.1.1
+	- tectonic 2.4.1
+	- terrablender 3.0.1.7
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- terralith 2.5.4
+	- torchesntrinkets 0.2.1-1.20.1-4
+	- travelersbackpack 9.1.18
+	   \-- reach-entity-attributes 2.4.0
+	- trinkets 3.7.2
+	- villagernames 8.1
+	- visualworkbench 8.0.0
+	- yungsapi 1.20-Fabric-4.0.6
+	   \-- org_javassist_javassist 3.29.2-GA
+[09:26:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[09:26:30] [main/INFO]: Compatibility level set to JAVA_17
+[09:26:30] [main/WARN]: Reference map 'CerbonsAPI-Fabric-1.20.1-fabric-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:26:30] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found dust.mixins.json:ClientWorldAccessor from mod cavedust
+[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_340 was not found dust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[09:26:32] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[09:26:32] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[09:26:32] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[09:26:32] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[09:26:32] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[09:26:32] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[09:26:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[09:26:45] [main/INFO]: Loaded config amendments-common.json
+[09:26:45] [main/INFO]: Reflections took 56 ms to scan 1 urls, producing 1 keys and 1 values
+[09:26:46] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[09:26:46] [main/INFO]: Creating directory for additional Better Nether Fortresses configuration at /workspaces/servermc/servidor_minecraft/config/betterfortresses/fabric-1_20
+[09:26:46] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[09:26:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[09:26:46] [main/INFO]: Brutal bosses initialized
+[09:26:46] [main/INFO]: Generating Bushier Flowers
+[09:26:46] [main/INFO]: Loading Collective version 7.87.
+[09:26:46] [main/INFO]: Loaded config for: cupboard.json
+[09:26:46] [main/INFO]: Constructing common components for diagonalblocks:main
+[09:26:46] [main/INFO]: Constructing common components for diagonalfences:main
+[09:26:46] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 68ms
+[09:26:46] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 65ms
+[09:26:46] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 143ms
+[09:26:47] [main/INFO]: Hello Fabric world!
+[09:26:47] [main/INFO]: Constructing common components for easyanvils:main
+[09:26:47] [main/INFO]: Constructing common components for easymagic:main
+[09:26:47] [main/ERROR]: No data fixer registered for rotten_tomato
+[09:26:47] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[09:26:47] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[09:26:47] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[09:26:47] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[09:26:48] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[09:26:48] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[09:26:49] [main/ERROR]: No data fixer registered for anomaly
+[09:26:49] [main/ERROR]: No data fixer registered for season_sensor
+[09:26:49] [main/INFO]: Loaded config immersive_weathering-common.json
+[09:26:49] [main/INFO]: Initialize mod Library Ferret
+[09:26:49] [main/INFO]: Initialized mod Library Ferret
+[09:26:49] [main/INFO]: Definitely not up to no good
+[09:26:49] [main/INFO]: Giving mobs a fresh coat of paint...
+[09:26:50] [main/INFO]: Constructing common components for puzzleslib:main
+[09:26:50] [main/INFO]: Reflections took 26 ms to scan 1 urls, producing 6 keys and 40 values
+[09:26:50] [main/INFO]: Reflections took 14 ms to scan 1 urls, producing 6 keys and 40 values
+[09:26:50] [main/INFO]: Registering Ribbit instruments...
+[09:26:50] [main/INFO]: Registering Ribbit umbrella types...
+[09:26:50] [main/INFO]: Registering Ribbit professions...
+[09:26:50] [main/INFO]: Registering Ribbit data serializers...
+[09:26:50] [main/INFO]: Loaded config supplementaries-common.json
+[09:26:51] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[09:26:51] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[09:26:51] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[09:26:51] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[09:26:51] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[09:26:51] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[09:26:51] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[09:26:51] [main/INFO]: !?
+[09:26:51] [main/INFO]: Registering Mod Items for torchesntrinkets
+[09:26:51] [main/INFO]: Registering Item Groups fortorchesntrinkets
+[09:26:51] [main/ERROR]: No data fixer registered for 
+[09:26:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[09:26:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[09:26:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[09:26:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[09:26:51] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[09:26:51] [main/INFO]: Constructing common components for visualworkbench:main
+[09:26:51] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 4 values
+[09:26:51] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 4 values
+[09:26:51] [main/ERROR]: Failed to start the minecraft server
+java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'better_totem_of_undying' at 'com.cerbon.better_totem_of_undying.fabric.BetterTotemOfUndyingFabric'!
+	at net.fabricmc.loader.impl.FabricLoaderImpl.lambda$invokeEntrypoints$2(FabricLoaderImpl.java:403) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.util.ExceptionUtil.gatherExceptions(ExceptionUtil.java:33) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:401) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63) ~[fabric-loader-0.16.3.jar:?]
+	at net.minecraft.server.Main.main(Main.java:112) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/class_638
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399) ~[fabric-loader-0.16.3.jar:?]
+	... 7 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.class_638
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399) ~[fabric-loader-0.16.3.jar:?]
+	... 7 more
