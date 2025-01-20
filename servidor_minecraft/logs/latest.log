@@ -1,10 +1,38 @@
-[22:01:02] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[22:01:03] [ForkJoinPool-1-worker-2/WARN]: Mod icommon-bundle uses the version bundle which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'bundle'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:01:03] [ForkJoinPool-1-worker-4/WARN]: Mod com_github_isaiahpatton_specialsource uses the version master-SNAPSHOT which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'master'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[22:01:03] [main/INFO]: Loading 48 mods:
-	- cardboard 8
-	   \-- com_github_isaiahpatton_specialsource master-SNAPSHOT
-	- fabric-api 0.92.2+1.20.1
+[06:09:42] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[06:09:43] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 12
+[06:09:43] [main/INFO]: Loading 136 mods:
+	- amendments 1.20-1.2.14
+	- appleskin 2.5.1+mc1.20
+	- aquamirae 6
+	- architectury 9.2.14
+	- biomesoplenty 19.0.0.94
+	- brutalbosses 1.20.1-7.3
+	- bushierflowers 0.0.3-1.20.1
+	- cardinal-components 5.2.3
+	   |-- cardinal-components-base 5.2.3
+	   |-- cardinal-components-block 5.2.3
+	   |-- cardinal-components-chunk 5.2.3
+	   |-- cardinal-components-entity 5.2.3
+	   |-- cardinal-components-item 5.2.3
+	   |-- cardinal-components-level 5.2.3
+	   |-- cardinal-components-scoreboard 5.2.3
+	   \-- cardinal-components-world 5.2.3
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- cobweb 1.0.1
+	- collective 7.87
+	- creativecore 2.12.24
+	   \-- net_minecraftforge_eventbus 6.0.3
+	- cupboard 1.20.1-2.7
+	- diagonalfences 8.1.5
+	   \-- diagonalblocks 8.0.6
+	- dungeons_arise 2.1.57
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- ecologics 2.2.0
+	- entityculling 1.7.2
+	- fabric-api 0.92.3+1.20.1
 	   |-- fabric-api-base 0.4.31+1802ada577
 	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
 	   |-- fabric-biome-api-v1 13.0.13+1802ada577
@@ -15,34 +43,34 @@
 	   |-- fabric-command-api-v1 1.2.34+f71b366f77
 	   |-- fabric-command-api-v2 2.2.13+1802ada577
 	   |-- fabric-commands-v0 0.2.51+df3654b377
-	   |-- fabric-containers-v0 0.1.64+df3654b377
-	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-containers-v0 0.1.65+df3654b377
+	   |-- fabric-content-registries-v0 4.0.12+1802ada577
 	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
 	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
-	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
-	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.1+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.5+1802ada577
 	   |-- fabric-dimensions-v1 2.1.54+1802ada577
 	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
-	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-interaction-v0 0.6.3+13a40c6677
 	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
 	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
 	   |-- fabric-item-api-v1 2.1.28+1802ada577
-	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.13+1802ada577
 	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
 	   |-- fabric-keybindings-v0 0.2.35+df3654b377
 	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
-	   |-- fabric-loot-api-v2 1.2.1+1802ada577
-	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-loot-api-v2 1.2.2+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.46+9e7660c677
 	   |-- fabric-message-api-v1 5.1.9+1802ada577
-	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.51+1802ada577
 	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
 	   |-- fabric-models-v0 0.4.2+9386d8a777
-	   |-- fabric-networking-api-v1 1.3.11+1802ada577
-	   |-- fabric-networking-v0 0.3.51+df3654b377
-	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-networking-api-v1 1.3.12+13a40c6677
+	   |-- fabric-networking-v0 0.3.52+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.4+1802ada577
 	   |-- fabric-particles-v1 1.1.2+1802ada577
-	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
-	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.22+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.4+1802ada577
 	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
 	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
 	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
@@ -51,347 +79,276 @@
 	   |-- fabric-rendering-v0 1.1.49+df3654b377
 	   |-- fabric-rendering-v1 3.0.8+1802ada577
 	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
-	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.11+fb82e9d777
 	   |-- fabric-screen-api-v1 2.0.8+1802ada577
-	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.31+1802ada577
 	   |-- fabric-sound-api-v1 1.0.13+1802ada577
 	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
 	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
-	- icommon-bundle bundle
-	   \-- icommon 1.20.1
+	- farmersdelight 1.20.1-2.2.5+refabricated
+	   |-- mm 2.3
+	   |-- porting_lib_accessors 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_base 2.3.8+1.20.1
+	   |    |-- porting_lib_attributes 2.3.8+1.20.1
+	   |    |-- porting_lib_common 2.3.8+1.20.1
+	   |    |-- porting_lib_core 2.3.8+1.20.1
+	   |    |-- porting_lib_entity 2.3.8+1.20.1
+	   |    |-- porting_lib_extensions 2.3.8+1.20.1
+	   |    |-- porting_lib_fluids 2.3.8+1.20.1
+	   |    |-- porting_lib_gui_utils 2.3.8+1.20.1
+	   |    |-- porting_lib_mixin_extensions 2.3.8+1.20.1
+	   |    |-- porting_lib_transfer 2.3.8+1.20.1
+	   |    |-- porting_lib_utility 2.3.8+1.20.1
+	   |    \-- reach-entity-attributes 2.4.0
+	   |-- porting_lib_config 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_lazy_registration 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_loot 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_networking 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_recipe_book_categories 2.3.8+1.20.1
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   |-- porting_lib_tags 3.0
+	   |    \-- porting_lib_core 2.3.8+1.20.1
+	   \-- porting_lib_tool_actions 2.3.8+1.20.1
+	        \-- porting_lib_core 2.3.8+1.20.1
+	- forgeconfigapiport 8.0.1
+	- ftbessentials 2001.2.2
+	- ftblibrary 2001.2.7
+	- ftbultimine 2001.1.5
+	- geckolib 4.7
+	   \-- com_eliotlash_mclib_mclib 20
+	- glitchcore 0.0.1.1
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- immersive_weathering 1.20.1-2.0.3
+	- incendium 5.3.5
+	- jade 11.12.0+fabric
 	- java 17
+	- jei 15.20.0.106
+	- libraryferret 4.0.0
+	- mcwwindows 2.3.0
+	- mes 1.3.4-1.20-fabric
+	- midnightlib 1.4.1
 	- minecraft 1.20.1
-[22:01:03] [main/WARN]: Found 1 non-fabric mod:
-	- fabric-server-mc.1.20.1-loader.0.16.9-launcher.1.0.1.jar
-[22:01:03] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:01:03] [main/INFO]: Compatibility level set to JAVA_16
-[22:01:03] [main/INFO]: Compatibility level set to JAVA_17
-[22:01:03] [main/INFO]: Please wait, Scanning plugins for events...
-[22:01:05] [main/INFO]: Found: 52 (Took: 1655ms)
-[22:01:05] [main/INFO]: Loading Libraries...
-[22:01:05] [main/INFO]: Debug: Loading library paper-api-1.20.1-R0.1-20230921.165944-178.jar
-[22:01:05] [main/INFO]: Debug: Loading library sqlite-jdbc-3.41.0.0.jar
-[22:01:05] [main/INFO]: Debug: Loading library mysql-connector-j-8.0.32.jar
-[22:01:05] [main/INFO]: Debug: Loading library commons-lang-2.6.jar
-[22:01:05] [main/INFO]: Debug: Loading library commons-collections4-4.4.jar
-[22:01:05] [main/INFO]: Debug: Loading library commons-collections-3.2.1.jar
-[22:01:05] [main/INFO]: Debug: Loading library bungeecord-chat-1.16-R0.4.jar
-[22:01:05] [main/INFO]: Debug: Loading library adventure-api-4.14.0.jar
-[22:01:05] [main/INFO]: Debug: Loading library adventure-key-4.14.0.jar
-[22:01:05] [main/INFO]: Debug: Loading library adventure-text-serializer-gson-4.14.0.jar
-[22:01:05] [main/INFO]: Debug: Loading library adventure-text-serializer-legacy-4.14.0.jar
-[22:01:05] [main/INFO]: Debug: Loading library adventure-text-serializer-plain-4.14.0.jar
-[22:01:05] [main/INFO]: -------------------------------------------------
-[22:01:05] [main/INFO]:  iCommon - Isaiah's common library for mods.
-[22:01:05] [main/INFO]:  Copyright (c) 2018-2024 Isaiah. Running on MC 1.20.1
-[22:01:05] [main/INFO]: -------------------------------------------------
-[22:01:05] [main/INFO]: Applying mixin: MixinMinecraftServer...
-[22:01:06] [main/INFO]: Applied 23 mixins.
-[22:01:06] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:01:12] [main/WARN]: Method overwrite conflict for getPlayer in bukkitfabric.mixins.json:network.handler.MixinSPNH_PlayerCommandPreprocessEvent_1_19 from mod cardboard, previously written by org.cardboardpowered.mixin.network.MixinServerPlayNetworkHandler. Skipping method.
-[22:01:13] [main/INFO]: 
-[22:01:13] [main/INFO]: Cardboard - CardboardPowered.org
-[22:01:13] [main/INFO]: 
-[22:01:13] [main/INFO]: Registered '7' iCommon events.
-[22:01:13] [main/INFO]: Cardboard mod Loaded.
-[22:01:13] [main/INFO]: iCommon Mod initialized.
-[22:01:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:01:13] [main/WARN]: Injection warning: LVT in net/minecraft/class_3225::method_14263(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;II)V has incompatible changes at opcode 358 in callback bukkitfabric.mixins.json:MixinServerPlayerInteractionManager from mod cardboard->@Inject::cb_3(Lnet/minecraft/class_2338;Lnet/minecraft/class_2846$class_2847;Lnet/minecraft/class_2350;IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;F)V.
- Expected: [F]
-    Found: [I]
-Available: [I, Lnet/minecraft/class_2680;, I]
-[22:01:15] [main/INFO]: Loaded 7 recipes
-[22:01:15] [main/INFO]: Loaded 7 recipes
-[22:01:15] [main/INFO]: Loaded 1271 advancements
-[22:01:15] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.838 ms
-[22:01:16] [Server thread/INFO]: Setting IServer instance..
-[22:01:16] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[22:01:16] [Server thread/INFO]: Loading properties
-[22:01:16] [Server thread/INFO]: Default game type: SURVIVAL
-[22:01:16] [Server thread/INFO]: Generating keypair
-[22:01:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:01:16] [Server thread/INFO]: Using epoll channel type
-[22:01:16] [Server thread/INFO]: DEB: 1865
-[22:01:16] [Server thread/INFO]: This server is running Cardboard version git-3432c4c (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: null on null)
-[22:01:16] [Server thread/INFO]: Debug logging is disabled
-[22:01:16] [Server thread/INFO]: Loading Bukkit plugins...
-[22:01:17] [Server thread/FATAL]: Could not load 'plugins/paper-1.20.1-196.jar'
-org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
-	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:169) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:1191) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:1153) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:447) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.class_3176.handler$zzb000$cardboard$init(class_3176.java:713) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(class_3176.java:147) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
-	... 9 more
-[22:01:17] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[22:01:19] [Server thread/WARN]: Legacy plugin ClearLag v1.0 does not specify an api-version.
-[22:01:19] [Server thread/INFO]: [STDOUT]: net/minecraft/class_2535
-[22:01:19] [Server thread/WARN]: Legacy plugin ClearLag v1.0 does not specify an api-version.
-[22:01:19] [Server thread/FATAL]: Could not load 'plugins/orebfuscator-plugin-5.5.2.jar'
-org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Please download and install ProtocolLib to run this plugin.
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:1313) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:1153) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:447) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.class_3176.handler$zzb000$cardboard$init(class_3176.java:713) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(class_3176.java:147) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[22:01:20] [Server thread/INFO]: Loading ClearLag v1.0
-[22:01:20] [Server thread/INFO]: Loading LuckPerms v5.4.131
-[22:01:23] [Server thread/INFO]: Loading SkinsRestorer v15.5.1
-[22:01:23] [Server thread/INFO]: Loading OreAnnouncer v2.8.5
-[22:01:23] [Server thread/INFO]: Loading libraries of OreAnnouncer v2.8.5, this may take a while
-[22:01:23] [Server thread/INFO]: Verifying checksum for jar-relocator
-[22:01:23] [Server thread/INFO]: Verifying checksum for asm
-[22:01:23] [Server thread/INFO]: Verifying checksum for asm-commons
-[22:01:23] [Server thread/INFO]: Verifying checksum for gson
-[22:01:23] [Server thread/INFO]: Verifying checksum for jdbi3-core
-[22:01:23] [Server thread/INFO]: Verifying checksum for geantyref
-[22:01:23] [Server thread/INFO]: Verifying checksum for caffeine
-[22:01:23] [Server thread/INFO]: Verifying checksum for jdbi3-stringtemplate4
-[22:01:23] [Server thread/INFO]: Verifying checksum for ST4
-[22:01:23] [Server thread/INFO]: Verifying checksum for antlr-runtime
-[22:01:23] [Server thread/INFO]: Verifying checksum for jdbi3-sqlobject
-[22:01:23] [Server thread/INFO]: Verifying checksum for slf4j-api
-[22:01:23] [Server thread/INFO]: Verifying checksum for slf4j-simple
-[22:01:23] [Server thread/INFO]: Verifying checksum for HikariCP
-[22:01:23] [Server thread/INFO]: Verifying checksum for mariadb-java-client
-[22:01:23] [Server thread/INFO]: Verifying checksum for mysql-connector-j
-[22:01:23] [Server thread/INFO]: Verifying checksum for postgresql
-[22:01:23] [Server thread/INFO]: Verifying checksum for h2
-[22:01:23] [Server thread/INFO]: Loading Essentials v2.21.0-dev+151-f2af952
-[22:01:23] [Server thread/INFO]: Enabling LuckPerms v5.4.131
-[22:01:23] [Server thread/WARN]: @Final field field_9194:Ljava/util/Map; in bukkitfabric.mixins.json:MixinExplosion from mod cardboard should be final
-[22:01:24] [Server thread/INFO]: §b       §3 __    
-[22:01:24] [Server thread/INFO]: §b  |    §3|__)   §2LuckPerms§r §bv5.4.131
-[22:01:24] [Server thread/INFO]: §b  |___ §3|      §8Running on Bukkit - Cardboard
-[22:01:24] [Server thread/INFO]: 
-[22:01:24] [Server thread/INFO]: Loading configuration...
-[22:01:25] [Server thread/INFO]: Loading storage provider... [H2]
-[22:01:27] [Server thread/INFO]: Loading internal permission managers...
-[22:01:27] [Server thread/INFO]: Performing initial data load...
-[22:01:28] [Server thread/INFO]: Successfully enabled. (took 4517ms)
-[22:01:28] [Server thread/INFO]: Enabling SkinsRestorer v15.5.1
-[22:01:29] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[22:01:30] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
-[22:01:30] [Server thread/FATAL]: An unexpected error occurred while starting the plugin. Please check the console for more details.
-java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
-	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
-	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
-	at net.skinsrestorer.shared.plugin.SRPlugin.loadStorage(SRPlugin.java:236) ~[?:?]
-	at net.skinsrestorer.shared.plugin.SRServerPlugin.startupPlatform(SRServerPlugin.java:101) ~[?:?]
-	at net.skinsrestorer.shared.plugin.SRPlugin.startup(SRPlugin.java:338) ~[?:?]
-	at net.skinsrestorer.shared.plugin.SRBootstrapper.startPlugin(SRBootstrapper.java:62) ~[?:?]
-	at net.skinsrestorer.bukkit.SRBukkitBootstrap.onEnable(SRBukkitBootstrap.java:45) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:1510) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:535) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:466) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.class_3176.handler$zzb000$cardboard$init(class_3176.java:714) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(class_3176.java:147) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[22:01:30] [Server thread/WARN]: Updater was not initialized, a error occurred while starting the plugin. Forcing updater to initialize.
-[22:01:30] [Server thread/FATAL]: An unexpected error occurred while initializing the updater. Please check the console for more details.
-java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
-	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
-	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
-	at net.skinsrestorer.shared.update.UpdateCheckExecutor.checkUpdate(UpdateCheckExecutor.java:40) ~[?:?]
-	at net.skinsrestorer.shared.update.UpdateCheckInit.run(UpdateCheckInit.java:47) ~[?:?]
-	at net.skinsrestorer.shared.plugin.SRPlugin.initUpdateCheck(SRPlugin.java:250) ~[?:?]
-	at net.skinsrestorer.shared.plugin.SRBootstrapper.startPlugin(SRBootstrapper.java:74) ~[?:?]
-	at net.skinsrestorer.bukkit.SRBukkitBootstrap.onEnable(SRBukkitBootstrap.java:45) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:1510) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:535) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:466) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.class_3176.handler$zzb000$cardboard$init(class_3176.java:714) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(class_3176.java:147) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[22:01:30] [Server thread/INFO]: 
-[22:01:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:01:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:01:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:01:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:01:30] [Server thread/INFO]: Preparing level "world"
-[22:01:30] [Server thread/INFO]: Setting IWorld for world "world"
-[22:01:30] [Server thread/INFO]: Setting IWorld for world "world_the_end"
-[22:01:33] [Server thread/INFO]: Setting IWorld for world "world_nether"
-[22:01:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:01:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:01:38] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[22:01:38] [Server thread/INFO]: Time elapsed: 5583 ms
-[22:01:38] [Server thread/INFO]: Preparing start region for world minecraft:the_end
-[22:01:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:01:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:01:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:01:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:01:40] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[22:01:40] [Server thread/INFO]: Time elapsed: 2210 ms
-[22:01:40] [Server thread/INFO]: Preparing start region for world minecraft:the_nether
-[22:01:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:01:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:01:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:01:42] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[22:01:42] [Server thread/INFO]: Time elapsed: 1826 ms
-[22:01:42] [Server thread/INFO]: Enabling ClearLag v1.0
-[22:01:42] [Server thread/INFO]: ClearLag Plugin has been enabled!
-[22:01:42] [Server thread/INFO]: Enabling OreAnnouncer v2.8.5
-[22:01:42] [Server thread/INFO]: Initializing OreAnnouncer v2.8.5
-[22:01:45] [Server thread/FATAL]: Error occurred while enabling OreAnnouncer v2.8.5 (Is it up to date?)
-java.lang.NoSuchMethodError: 'org.bukkit.plugin.java.JavaPlugin org.bukkit.plugin.java.PluginClassLoader.getPlugin()'
-	at co.aikar.timings.TimingsManager.getPluginByClassloader(TimingsManager.java:188) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at co.aikar.timings.TimingsManager.getCommandTiming(TimingsManager.java:164) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.command.SimpleCommandMap.register(SimpleCommandMap.java:69) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.command.SimpleCommandMap.register(SimpleCommandMap.java:61) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at com.alessiodp.oreannouncer.core.bukkit.commands.utils.BukkitCommandUtils.register(BukkitCommandUtils.java:35) ~[?:?]
-	at com.alessiodp.oreannouncer.core.common.commands.CommandManager.setupCommands(CommandManager.java:56) ~[?:?]
-	at com.alessiodp.oreannouncer.core.common.commands.CommandManager.setup(CommandManager.java:35) ~[?:?]
-	at com.alessiodp.oreannouncer.common.OreAnnouncerPlugin.postHandle(OreAnnouncerPlugin.java:72) ~[?:?]
-	at com.alessiodp.oreannouncer.bukkit.BukkitOreAnnouncerPlugin.postHandle(BukkitOreAnnouncerPlugin.java:59) ~[?:?]
-	at com.alessiodp.oreannouncer.core.common.ADPPlugin.enabling(ADPPlugin.java:90) ~[?:?]
-	at com.alessiodp.oreannouncer.core.bukkit.bootstrap.ADPBukkitBootstrap.onEnable(ADPBukkitBootstrap.java:38) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:1510) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:535) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:466) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zzd000$cardboard$afterWorldLoad(MinecraftServer.java:2493) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java:339) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(class_3176.java:169) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[22:01:45] [Server thread/INFO]: Enabling Essentials v2.21.0-dev+151-f2af952
-[22:01:46] [Server thread/FATAL]: Error occurred while enabling Essentials v2.21.0-dev+151-f2af952 (Is it up to date?)
-java.lang.NullPointerException: Cannot invoke "net.ess3.provider.ServerStateProvider.isStopping()" because the return value of "com.earth2me.essentials.Essentials.getServerStateProvider()" is null
-	at com.earth2me.essentials.Essentials.onDisable(Essentials.java:625) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[Cardboard-1.20.jar:?]
-	at com.earth2me.essentials.Essentials.handleCrash(Essentials.java:1167) ~[?:?]
-	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:559) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:1510) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:535) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:466) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zzd000$cardboard$afterWorldLoad(MinecraftServer.java:2493) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java:339) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(class_3176.java:169) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:646) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[22:01:46] [Server thread/INFO]: Done (15.997s)! For help, type "help"
-[22:02:38] [User Authenticator #0/INFO]: UUID of player Th1ngsWASD is 66043ea6-1a9d-3e0f-a421-0eadd33ff3fa
-[22:02:38] [Server thread/INFO]: Th1ngsWASD[/[0:0:0:0:0:0:0:1%0]:45380] logged in with entity id 314 at (12.421675670109412, 68.0, -46.90877092602058)
-[22:02:38] [Server thread/INFO]: Th1ngsWASD joined the game
-[22:02:39] [Server thread/FATAL]: Could not pass event PlayerJoinEvent to SkinsRestorer v15.5.1
-org.bukkit.event.EventException: null
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:303) ~[Cardboard-1.20.jar:?]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:642) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:1625) ~[paper-api-1.20.1-R0.1-20230921.165944-178.jar:?]
-	at com.javazilla.bukkitfabric.impl.BukkitEventFactory.callEvent(BukkitEventFactory.java:153) ~[Cardboard-1.20.jar:?]
-	at net.minecraft.class_3324.handler$zzf000$cardboard$firePlayerJoinEvent(class_3324.java:1167) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3324.method_14570(class_3324.java:307) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_33800(class_3248.java:131) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_14384(class_3248.java:118) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.redirect$zle000$fabric-networking-api-v1$handlePlayerJoin(class_3248.java:1063) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.method_18784(class_3248.java:68) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.NullPointerException: Cannot invoke "io.papermc.paper.threadedregions.scheduler.AsyncScheduler.runNow(org.bukkit.plugin.Plugin, java.util.function.Consumer)" because the return value of "org.bukkit.Server.getAsyncScheduler()" is null
-	at net.skinsrestorer.bukkit.folia.FoliaSchedulerProvider.runAsync(FoliaSchedulerProvider.java:47) ~[?:?]
-	at net.skinsrestorer.bukkit.SRBukkitAdapter.runAsync(SRBukkitAdapter.java:121) ~[?:?]
-	at net.skinsrestorer.shared.listeners.AdminInfoListenerAdapter.handleConnect(AdminInfoListenerAdapter.java:42) ~[?:?]
-	at net.skinsrestorer.bukkit.listener.AdminInfoListener.onPlayerJoin(AdminInfoListener.java:38) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
-	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:301) ~[Cardboard-1.20.jar:?]
-	... 18 more
-[22:02:39] [Server thread/INFO]: Th1ngsWASD joined the game
-[22:02:43] [Server thread/INFO]: Th1ngsWASD issued server command: /sky
-[22:02:43] [Server thread/INFO]: [STDERR]: org.bukkit.command.CommandException: Cannot execute command 'sky' in plugin Essentials v2.21.0-dev+151-f2af952 - plugin is disabled.
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:957)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at org.cardboardpowered.impl.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:61)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_2170.method_9249(class_2170.java:287)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_45010(class_3244.java:3237)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_44356(class_3244.java:1321)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_5386(class_1255.java:67)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3738.run(class_3738.java:18)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_18859(class_1255.java:156)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_4093.method_18859(class_4093.java:23)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_16075(class_1255.java:130)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_18857(class_1255.java:139)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:743)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
-[22:02:43] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:840)
-[22:02:47] [Server thread/INFO]: Th1ngsWASD issued server command: /essentials:about
-[22:02:47] [Server thread/INFO]: [STDERR]: org.bukkit.command.CommandException: Cannot execute command 'essentials:about' in plugin Essentials v2.21.0-dev+151-f2af952 - plugin is disabled.
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:957)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at org.cardboardpowered.impl.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:61)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_2170.method_9249(class_2170.java:287)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_45010(class_3244.java:3237)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3244.method_44356(class_3244.java:1321)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_5386(class_1255.java:67)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_3738.run(class_3738.java:18)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_18859(class_1255.java:156)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_4093.method_18859(class_4093.java:23)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_16075(class_1255.java:130)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.class_1255.method_18857(class_1255.java:139)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:743)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
-[22:02:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:840)
-[22:03:54] [Server thread/INFO]: Nothing changed. The player is not an operator
-[22:04:38] [Server thread/INFO]: Th1ngsWASD lost connection: Timed out
-[22:04:38] [Server thread/INFO]: Th1ngsWASD left the game
-[22:04:38] [Server thread/INFO]: Th1ngsWASD lost connection: Timed out
-[22:04:38] [Server thread/INFO]: Th1ngsWASD left the game
-[22:04:38] [Server thread/WARN]: handleDisconnection() called twice
+	- mns 1.0.3-1.20-fabric
+	- moonlight 1.20-2.13.51
+	- moremobvariants 1.3.1
+	- mvs 4.1.4-1.20-fabric
+	- naturalist 4.0.3
+	- netheriteextras 0.2.2+mc1.20.1
+	- notenoughanimations 1.9.1
+	- obscure_api 16
+	- puzzleslib 8.1.25
+	   \-- puzzlesaccessapi 8.0.7
+	- repurposed_structures 7.1.15+1.20.1-fabric
+	- sereneseasons 9.1.0.0
+	   |-- com_electronwill_night-config_core 3.6.7
+	   |-- com_electronwill_night-config_toml 3.6.7
+	   \-- net_jodah_typetools 0.6.3
+	- soul_fire_d 4.0.10
+	- sound_physics_remastered 1.20.1-1.4.8
+	- supplementaries 1.20-3.1.11
+	   \-- mixinsquared 0.1.1
+	- tectonic 2.4.1
+	- terrablender 3.0.1.7
+	   |-- com_electronwill_night-config_core 3.6.7
+	   \-- com_electronwill_night-config_toml 3.6.7
+	- terralith 2.5.4
+	- travelersbackpack 9.1.18
+	   \-- reach-entity-attributes 2.4.0
+	- villagernames 8.1
+	- visualworkbench 8.0.0
+[06:09:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:09:43] [main/INFO]: Compatibility level set to JAVA_17
+[06:09:44] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[06:09:44] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[06:09:44] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[06:09:44] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[06:09:44] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[06:09:44] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[06:09:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[06:09:45] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[06:09:45] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[06:09:45] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[06:09:45] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[06:09:45] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[06:09:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06:10:00] [main/INFO]: Loaded config amendments-common.json
+[06:10:01] [main/INFO]: Brutal bosses initialized
+[06:10:01] [main/INFO]: Generating Bushier Flowers
+[06:10:01] [main/INFO]: Loading Collective version 7.87.
+[06:10:01] [main/INFO]: Loaded config for: cupboard.json
+[06:10:01] [main/INFO]: Constructing common components for diagonalblocks:main
+[06:10:01] [main/INFO]: Constructing common components for diagonalfences:main
+[06:10:01] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 112ms
+[06:10:01] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 63ms
+[06:10:01] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 128ms
+[06:10:02] [main/INFO]: Constructing common components for easyanvils:main
+[06:10:02] [main/INFO]: Constructing common components for easymagic:main
+[06:10:02] [main/ERROR]: No data fixer registered for rotten_tomato
+[06:10:02] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[06:10:02] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[06:10:02] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[06:10:02] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[06:10:03] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[06:10:03] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[06:10:03] [main/ERROR]: No data fixer registered for anomaly
+[06:10:03] [main/ERROR]: No data fixer registered for season_sensor
+[06:10:03] [main/INFO]: Loaded config immersive_weathering-common.json
+[06:10:04] [main/INFO]: Initialize mod Library Ferret
+[06:10:04] [main/INFO]: Initialized mod Library Ferret
+[06:10:04] [main/INFO]: Definitely not up to no good
+[06:10:04] [main/INFO]: Giving mobs a fresh coat of paint...
+[06:10:04] [main/INFO]: Constructing common components for puzzleslib:main
+[06:10:05] [main/INFO]: Loaded config supplementaries-common.json
+[06:10:06] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06:10:06] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[06:10:06] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[06:10:06] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[06:10:06] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[06:10:06] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[06:10:06] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[06:10:06] [main/ERROR]: No data fixer registered for 
+[06:10:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[06:10:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[06:10:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[06:10:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[06:10:06] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[06:10:06] [main/INFO]: Constructing common components for visualworkbench:main
+[06:10:09] [main/INFO]: Initialized block sets in 26ms
+[06:10:09] [main/ERROR]: No data fixer registered for falling_lantern
+[06:10:09] [main/ERROR]: No data fixer registered for immersive_weathering:falling_icicle
+[06:10:09] [main/ERROR]: No data fixer registered for immersive_weathering:falling_layer
+[06:10:09] [main/ERROR]: No data fixer registered for immersive_weathering:falling_propagule
+[06:10:09] [main/ERROR]: No data fixer registered for dispenser_minecart
+[06:10:09] [main/ERROR]: No data fixer registered for falling_urn
+[06:10:09] [main/ERROR]: No data fixer registered for falling_ash
+[06:10:09] [main/ERROR]: No data fixer registered for falling_sack
+[06:10:09] [main/ERROR]: No data fixer registered for brick_projectile
+[06:10:09] [main/ERROR]: No data fixer registered for slimeball_projectile
+[06:10:09] [main/ERROR]: No data fixer registered for bomb
+[06:10:09] [main/ERROR]: No data fixer registered for cannonball
+[06:10:09] [main/ERROR]: No data fixer registered for rope_arrow
+[06:10:09] [main/ERROR]: No data fixer registered for slingshot_projectile
+[06:10:10] [main/INFO]: Initialized color sets in 87ms
+[06:10:10] [main/INFO]: Finished mod setup in: [0, 2, 0, 1, 0, 0, 25, 5, 1] ms
+[06:10:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:10:10] [main/INFO]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 24 ms
+[06:10:10] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 54 ms
+[06:10:15] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[06:10:16] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[06:10:20] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
+com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.fromJson(CuttingBoardRecipe.java:176) ~[FarmersDelight-1.20.1-2.2.5+refabricated.jar:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.method_8121(CuttingBoardRecipe.java:166) ~[FarmersDelight-1.20.1-2.2.5+refabricated.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[06:10:20] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
+com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_52177(class_1856.java:135) ~[server-intermediary.jar:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.fromJson(CuttingBoardRecipe.java:176) ~[FarmersDelight-1.20.1-2.2.5+refabricated.jar:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.method_8121(CuttingBoardRecipe.java:166) ~[FarmersDelight-1.20.1-2.2.5+refabricated.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
+[06:10:20] [main/INFO]: Loaded 9 recipes
+[06:10:21] [main/INFO]: Loaded 2549 advancements
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:drowned
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:skeleton
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:pillager
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:vex
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:husk
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:guardian
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:shulker
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:zoglin
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:chicken
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:blaze
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:witch
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:phantom
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:rabbit
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:ghast
+[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:stray
+[06:10:21] [main/INFO]: Reloading config...
+[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[06:10:21] [main/INFO]: Loaded 27 flute songs
+[06:10:25] [main/INFO]: Loaded 78 block growths configurations
+[06:10:25] [main/INFO]: Loaded 14 liquid generators configurations
+[06:10:25] [main/INFO]: Applied 7 data villager trades
+[06:10:25] [main/INFO]: Finished additional setup in 0 ms
+[06:10:26] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06:10:26] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[06:10:26] [main/INFO]: Applied 3349 biome modifications to 241 of 241 new biomes in 99.93 ms
+[06:10:26] [Server thread/INFO]: Loading server config for easyanvils
+[06:10:26] [Thread-2/INFO]: Reloading server config for easyanvils
+[06:10:26] [Thread-2/INFO]: Reloading server config for easyanvils
+[06:10:27] [Server thread/INFO]: Loading server config for easymagic
+[06:10:27] [Thread-2/INFO]: Reloading server config for easymagic
+[06:10:27] [Thread-2/INFO]: Reloading server config for easymagic
+[06:10:27] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[06:10:27] [Server thread/INFO]: Loading properties
+[06:10:27] [Server thread/INFO]: Default game type: SURVIVAL
+[06:10:27] [Server thread/INFO]: Generating keypair
+[06:10:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:10:27] [Server thread/INFO]: Using epoll channel type
+[06:10:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:10:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:10:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:10:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:10:27] [Server thread/INFO]: Preparing level "world"
+[06:10:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
