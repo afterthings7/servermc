@@ -413,3 +413,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [07:37:39] [Server thread/INFO]: Kicked Th1ngsWASD: Kicked by an operator
 [07:37:39] [Server thread/INFO]: Th1ngsWASD lost connection: Kicked by an operator
 [07:37:39] [Server thread/INFO]: Th1ngsWASD left the game
+[07:43:39] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:33035] logged in with entity id 10258 at (-485.45013283932525, 63.0, 2848.5476769764623)
+[07:43:39] [Server thread/INFO]: Syncing config to Th1ngsWASD (66043ea6-1a9d-3e0f-a421-0eadd33ff3fa)
+[07:43:39] [Server thread/INFO]: Loading config from file...
+[07:43:39] [Server thread/INFO]: Th1ngsWASD joined the game
