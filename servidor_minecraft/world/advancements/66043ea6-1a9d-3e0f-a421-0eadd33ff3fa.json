@@ -19,12 +19,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-01-20 08:02:47 +0000",
       "floodplain": "2025-01-20 07:02:27 +0000",
       "overgrown_greens": "2025-01-20 06:55:22 +0000",
       "coniferous_forest": "2025-01-20 04:05:34 +0000",
       "redwood_forest": "2025-01-20 06:54:04 +0000",
       "seasonal_forest": "2025-01-20 04:00:08 +0000",
       "rocky_rainforest": "2025-01-20 07:26:30 +0000",
+      "volcanic_plains": "2025-01-20 08:01:34 +0000",
       "fir_clearing": "2025-01-20 04:16:05 +0000",
       "prairie": "2025-01-20 05:46:37 +0000",
       "rainforest": "2025-01-20 07:08:06 +0000",
@@ -245,6 +247,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-01-20 08:06:33 +0000",
       "minecraft:river": "2025-01-20 04:54:27 +0000",
       "minecraft:stony_shore": "2025-01-20 04:02:22 +0000",
       "minecraft:forest": "2025-01-20 04:51:36 +0000",
@@ -741,6 +744,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-20 08:00:57 +0000",
       "cooked_mutton": "2025-01-20 05:54:16 +0000",
       "cooked_beef": "2025-01-20 04:17:44 +0000",
       "apple": "2025-01-20 04:09:13 +0000",
@@ -2273,6 +2277,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-20 07:56:40 +0000"
@@ -2291,6 +2307,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-20 07:56:40 +0000"
@@ -2303,9 +2337,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-20 07:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
     },
     "done": true
   },
@@ -2321,9 +2373,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-01-20 07:56:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
     },
     "done": true
   },
@@ -2339,9 +2403,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-01-20 07:52:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
     },
     "done": true
   },
@@ -2351,9 +2433,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-20 07:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-20 07:52:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-20 07:57:48 +0000"
     },
     "done": true
   },
