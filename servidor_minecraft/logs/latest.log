@@ -1,7 +1,7 @@
-[06:09:42] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[06:09:43] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[06:39:10] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[06:39:11] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 12
-[06:09:43] [main/INFO]: Loading 136 mods:
+[06:39:11] [main/INFO]: Loading 136 mods:
 	- amendments 1.20-1.2.14
 	- appleskin 2.5.1+mc1.20
 	- aquamirae 6
@@ -165,86 +165,86 @@
 	   \-- reach-entity-attributes 2.4.0
 	- villagernames 8.1
 	- visualworkbench 8.0.0
-[06:09:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[06:09:43] [main/INFO]: Compatibility level set to JAVA_17
-[06:09:44] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[06:09:44] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[06:09:44] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[06:09:44] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[06:09:44] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[06:09:44] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[06:09:45] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[06:09:45] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[06:09:45] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[06:09:45] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[06:09:45] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[06:09:45] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[06:09:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[06:10:00] [main/INFO]: Loaded config amendments-common.json
-[06:10:01] [main/INFO]: Brutal bosses initialized
-[06:10:01] [main/INFO]: Generating Bushier Flowers
-[06:10:01] [main/INFO]: Loading Collective version 7.87.
-[06:10:01] [main/INFO]: Loaded config for: cupboard.json
-[06:10:01] [main/INFO]: Constructing common components for diagonalblocks:main
-[06:10:01] [main/INFO]: Constructing common components for diagonalfences:main
-[06:10:01] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 112ms
-[06:10:01] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 63ms
-[06:10:01] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 128ms
-[06:10:02] [main/INFO]: Constructing common components for easyanvils:main
-[06:10:02] [main/INFO]: Constructing common components for easymagic:main
-[06:10:02] [main/ERROR]: No data fixer registered for rotten_tomato
-[06:10:02] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[06:10:02] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
-[06:10:02] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
-[06:10:02] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[06:10:03] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[06:10:03] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[06:10:03] [main/ERROR]: No data fixer registered for anomaly
-[06:10:03] [main/ERROR]: No data fixer registered for season_sensor
-[06:10:03] [main/INFO]: Loaded config immersive_weathering-common.json
-[06:10:04] [main/INFO]: Initialize mod Library Ferret
-[06:10:04] [main/INFO]: Initialized mod Library Ferret
-[06:10:04] [main/INFO]: Definitely not up to no good
-[06:10:04] [main/INFO]: Giving mobs a fresh coat of paint...
-[06:10:04] [main/INFO]: Constructing common components for puzzleslib:main
-[06:10:05] [main/INFO]: Loaded config supplementaries-common.json
-[06:10:06] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[06:10:06] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[06:10:06] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[06:10:06] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[06:10:06] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[06:10:06] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[06:10:06] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[06:10:06] [main/ERROR]: No data fixer registered for 
-[06:10:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[06:10:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[06:10:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[06:10:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[06:10:06] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[06:10:06] [main/INFO]: Constructing common components for visualworkbench:main
-[06:10:09] [main/INFO]: Initialized block sets in 26ms
-[06:10:09] [main/ERROR]: No data fixer registered for falling_lantern
-[06:10:09] [main/ERROR]: No data fixer registered for immersive_weathering:falling_icicle
-[06:10:09] [main/ERROR]: No data fixer registered for immersive_weathering:falling_layer
-[06:10:09] [main/ERROR]: No data fixer registered for immersive_weathering:falling_propagule
-[06:10:09] [main/ERROR]: No data fixer registered for dispenser_minecart
-[06:10:09] [main/ERROR]: No data fixer registered for falling_urn
-[06:10:09] [main/ERROR]: No data fixer registered for falling_ash
-[06:10:09] [main/ERROR]: No data fixer registered for falling_sack
-[06:10:09] [main/ERROR]: No data fixer registered for brick_projectile
-[06:10:09] [main/ERROR]: No data fixer registered for slimeball_projectile
-[06:10:09] [main/ERROR]: No data fixer registered for bomb
-[06:10:09] [main/ERROR]: No data fixer registered for cannonball
-[06:10:09] [main/ERROR]: No data fixer registered for rope_arrow
-[06:10:09] [main/ERROR]: No data fixer registered for slingshot_projectile
-[06:10:10] [main/INFO]: Initialized color sets in 87ms
-[06:10:10] [main/INFO]: Finished mod setup in: [0, 2, 0, 1, 0, 0, 25, 5, 1] ms
-[06:10:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06:10:10] [main/INFO]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 24 ms
-[06:10:10] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 54 ms
-[06:10:15] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[06:10:16] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[06:10:20] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
+[06:39:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:39:11] [main/INFO]: Compatibility level set to JAVA_17
+[06:39:12] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[06:39:12] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[06:39:12] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[06:39:12] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[06:39:12] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[06:39:12] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[06:39:13] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[06:39:13] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[06:39:13] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[06:39:13] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[06:39:13] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[06:39:13] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[06:39:13] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06:39:30] [main/INFO]: Loaded config amendments-common.json
+[06:39:30] [main/INFO]: Brutal bosses initialized
+[06:39:30] [main/INFO]: Generating Bushier Flowers
+[06:39:30] [main/INFO]: Loading Collective version 7.87.
+[06:39:30] [main/INFO]: Loaded config for: cupboard.json
+[06:39:30] [main/INFO]: Constructing common components for diagonalblocks:main
+[06:39:30] [main/INFO]: Constructing common components for diagonalfences:main
+[06:39:30] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 115ms
+[06:39:31] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 181ms
+[06:39:31] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 325ms
+[06:39:31] [main/INFO]: Constructing common components for easyanvils:main
+[06:39:32] [main/INFO]: Constructing common components for easymagic:main
+[06:39:33] [main/ERROR]: No data fixer registered for rotten_tomato
+[06:39:33] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[06:39:33] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[06:39:33] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[06:39:33] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[06:39:34] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[06:39:34] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[06:39:34] [main/ERROR]: No data fixer registered for anomaly
+[06:39:34] [main/ERROR]: No data fixer registered for season_sensor
+[06:39:34] [main/INFO]: Loaded config immersive_weathering-common.json
+[06:39:34] [main/INFO]: Initialize mod Library Ferret
+[06:39:34] [main/INFO]: Initialized mod Library Ferret
+[06:39:34] [main/INFO]: Definitely not up to no good
+[06:39:34] [main/INFO]: Giving mobs a fresh coat of paint...
+[06:39:35] [main/INFO]: Constructing common components for puzzleslib:main
+[06:39:35] [main/INFO]: Loaded config supplementaries-common.json
+[06:39:36] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06:39:36] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[06:39:36] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[06:39:36] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[06:39:36] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[06:39:36] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[06:39:36] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[06:39:36] [main/ERROR]: No data fixer registered for 
+[06:39:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[06:39:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[06:39:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[06:39:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[06:39:36] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[06:39:36] [main/INFO]: Constructing common components for visualworkbench:main
+[06:39:39] [main/INFO]: Initialized block sets in 51ms
+[06:39:39] [main/ERROR]: No data fixer registered for falling_lantern
+[06:39:39] [main/ERROR]: No data fixer registered for immersive_weathering:falling_icicle
+[06:39:39] [main/ERROR]: No data fixer registered for immersive_weathering:falling_layer
+[06:39:39] [main/ERROR]: No data fixer registered for immersive_weathering:falling_propagule
+[06:39:39] [main/ERROR]: No data fixer registered for dispenser_minecart
+[06:39:39] [main/ERROR]: No data fixer registered for falling_urn
+[06:39:39] [main/ERROR]: No data fixer registered for falling_ash
+[06:39:39] [main/ERROR]: No data fixer registered for falling_sack
+[06:39:39] [main/ERROR]: No data fixer registered for brick_projectile
+[06:39:39] [main/ERROR]: No data fixer registered for slimeball_projectile
+[06:39:39] [main/ERROR]: No data fixer registered for bomb
+[06:39:39] [main/ERROR]: No data fixer registered for cannonball
+[06:39:39] [main/ERROR]: No data fixer registered for rope_arrow
+[06:39:39] [main/ERROR]: No data fixer registered for slingshot_projectile
+[06:39:40] [main/INFO]: Initialized color sets in 69ms
+[06:39:40] [main/INFO]: Finished mod setup in: [0, 1, 0, 1, 0, 0, 23, 5, 1] ms
+[06:39:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:39:40] [main/INFO]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 31 ms
+[06:39:40] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 53 ms
+[06:39:45] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[06:39:46] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[06:39:49] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
@@ -266,7 +266,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:10:20] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
+[06:39:49] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.class_1856.method_8107(class_1856.java:167) ~[server-intermediary.jar:?]
 	at net.minecraft.class_1856.method_8102(class_1856.java:143) ~[server-intermediary.jar:?]
@@ -288,67 +288,122 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:10:20] [main/INFO]: Loaded 9 recipes
-[06:10:21] [main/INFO]: Loaded 2549 advancements
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:drowned
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:skeleton
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:pillager
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:vex
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:husk
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:guardian
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:shulker
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:zoglin
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:chicken
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:blaze
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:witch
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:phantom
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:rabbit
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:ghast
-[06:10:21] [main/INFO]: Loaded boss variant for: minecraft:stray
-[06:10:21] [main/INFO]: Reloading config...
-[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[06:10:21] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
-[06:10:21] [main/INFO]: Loaded 27 flute songs
-[06:10:25] [main/INFO]: Loaded 78 block growths configurations
-[06:10:25] [main/INFO]: Loaded 14 liquid generators configurations
-[06:10:25] [main/INFO]: Applied 7 data villager trades
-[06:10:25] [main/INFO]: Finished additional setup in 0 ms
-[06:10:26] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[06:10:26] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[06:10:26] [main/INFO]: Applied 3349 biome modifications to 241 of 241 new biomes in 99.93 ms
-[06:10:26] [Server thread/INFO]: Loading server config for easyanvils
-[06:10:26] [Thread-2/INFO]: Reloading server config for easyanvils
-[06:10:26] [Thread-2/INFO]: Reloading server config for easyanvils
-[06:10:27] [Server thread/INFO]: Loading server config for easymagic
-[06:10:27] [Thread-2/INFO]: Reloading server config for easymagic
-[06:10:27] [Thread-2/INFO]: Reloading server config for easymagic
-[06:10:27] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[06:10:27] [Server thread/INFO]: Loading properties
-[06:10:27] [Server thread/INFO]: Default game type: SURVIVAL
-[06:10:27] [Server thread/INFO]: Generating keypair
-[06:10:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:10:27] [Server thread/INFO]: Using epoll channel type
-[06:10:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:10:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:10:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:10:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:10:27] [Server thread/INFO]: Preparing level "world"
-[06:10:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:39:49] [main/INFO]: Loaded 9 recipes
+[06:39:49] [main/INFO]: Loaded 2549 advancements
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:drowned
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:skeleton
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:pillager
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:vex
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:husk
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:guardian
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:shulker
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:zoglin
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:chicken
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:blaze
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:witch
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:phantom
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:rabbit
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:ghast
+[06:39:49] [main/INFO]: Loaded boss variant for: minecraft:stray
+[06:39:49] [main/INFO]: Reloading config...
+[06:39:49] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[06:39:49] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[06:39:49] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[06:39:49] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[06:39:49] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[06:39:50] [main/INFO]: Loaded 27 flute songs
+[06:39:54] [main/INFO]: Loaded 78 block growths configurations
+[06:39:54] [main/INFO]: Loaded 14 liquid generators configurations
+[06:39:54] [main/INFO]: Applied 7 data villager trades
+[06:39:54] [main/INFO]: Finished additional setup in 0 ms
+[06:39:55] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06:39:55] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[06:39:55] [main/INFO]: Applied 3349 biome modifications to 241 of 241 new biomes in 84.05 ms
+[06:39:55] [Server thread/INFO]: Loading server config for easyanvils
+[06:39:55] [Thread-2/INFO]: Reloading server config for easyanvils
+[06:39:55] [Thread-2/INFO]: Reloading server config for easyanvils
+[06:39:55] [Server thread/INFO]: Loading server config for easymagic
+[06:39:55] [Thread-2/INFO]: Reloading server config for easymagic
+[06:39:55] [Thread-2/INFO]: Reloading server config for easymagic
+[06:39:55] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[06:39:55] [Server thread/INFO]: Loading properties
+[06:39:55] [Server thread/INFO]: Default game type: SURVIVAL
+[06:39:55] [Server thread/INFO]: Generating keypair
+[06:39:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:39:56] [Server thread/INFO]: Using epoll channel type
+[06:39:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:39:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:39:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:39:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:39:56] [Server thread/INFO]: Preparing level "world"
+[06:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:40:27] [Server thread/INFO]: Loaded config for: brutalbosses.json
+[06:40:27] [Server thread/INFO]: Preparing spawn area: 100%
+[06:40:27] [Server thread/INFO]: Time elapsed: 13225 ms
+[06:40:27] [Server thread/INFO]: Done (31.135s)! For help, type "help"
+[06:40:27] [Server thread/INFO]: Start loading plugin from Jade
+[06:40:27] [Server thread/INFO]: Start loading plugin from Jade
+[06:40:27] [Server thread/INFO]: Start loading plugin from Jade
+[06:40:27] [Server thread/INFO]: Start loading plugin from Supplementaries
+[06:40:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15854ms or 317 ticks behind
+[06:45:23] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:41803] logged in with entity id 71 at (-466.7655567887173, 78.0, 1847.324355459358)
+[06:45:23] [Server thread/INFO]: Syncing config to Th1ngsWASD (66043ea6-1a9d-3e0f-a421-0eadd33ff3fa)
+[06:45:40] [Server thread/INFO]: Loading config from file...
+[06:45:40] [Server thread/INFO]: Th1ngsWASD joined the game
+[06:45:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16951ms or 339 ticks behind
+[06:46:05] [Server thread/INFO]: Villager class_1646['Shari'/275, l='ServerLevel[world]', x=-560.63, y=82.00, z=1871.72] died, message: 'Shari suffocated in a wall'
+[06:46:05] [Server thread/INFO]: Named entity class_1646['Shari'/275, l='ServerLevel[world]', x=-560.63, y=82.00, z=1871.72] died: Shari suffocated in a wall
+[06:46:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16181ms or 323 ticks behind
+[06:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15645ms or 312 ticks behind
+[06:47:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
+[06:47:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[06:50:20] [Server thread/INFO]: Villager class_1646['Tabetha'/104, l='ServerLevel[world]', x=-505.93, y=79.50, z=1845.41] died, message: 'Tabetha suffocated in a wall'
+[06:50:20] [Server thread/INFO]: Named entity class_1646['Tabetha'/104, l='ServerLevel[world]', x=-505.93, y=79.50, z=1845.41] died: Tabetha suffocated in a wall
+[06:54:21] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle]] from pos class_2338{x=-187, y=81, z=2213}
+[06:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
+[06:54:26] [Server thread/WARN]: Th1ngsWASD moved too quickly! 10.236072783799841,0.49520087700592796,0.42831946638534646
+[06:58:28] [pool-4-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom]] from pos class_2338{x=-587, y=77, z=2555}
+[06:58:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[06:58:53] [Worker-Main-9/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[07:08:31] [Server thread/INFO]: Named entity class_1564['Rumak the Dark'/3632, l='ServerLevel[world]', x=-565.55, y=98.00, z=2359.74] died: Rumak the Dark was slain by Husk
