@@ -951,3 +951,33 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [08:04:12] [pool-4-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands]] from pos class_2338{x=59, y=85, z=3045}
 [08:04:15] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=59, y=85, z=3045} but found not block entity block Block{minecraft:air} at location
 [08:04:15] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=59, y=85, z=3045}
+[08:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[08:10:31] [pool-4-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest]] from pos class_2338{x=59, y=78, z=2533}
+[08:10:37] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/17990, l='ServerLevel[world]', x=253.50, y=76.00, z=2631.50]
+[08:11:18] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18261, l='ServerLevel[world]', x=225.50, y=75.00, z=2583.50]
+[08:11:49] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18376, l='ServerLevel[world]', x=177.50, y=74.00, z=2517.50]
+[08:12:19] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18440, l='ServerLevel[world]', x=234.50, y=79.00, z=2617.50]
+[08:12:23] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18459, l='ServerLevel[world]', x=268.50, y=75.00, z=2620.50]
+[08:12:33] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18469, l='ServerLevel[world]', x=129.50, y=73.00, z=2489.50]
+[08:12:43] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18490, l='ServerLevel[world]', x=119.50, y=75.00, z=2493.50]
+[08:13:19] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18631, l='ServerLevel[world]', x=128.50, y=75.00, z=2512.50]
+[08:13:34] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18687, l='ServerLevel[world]', x=228.50, y=74.00, z=2552.50]
+[08:13:57] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18844, l='ServerLevel[world]', x=127.50, y=74.00, z=2508.50]
+[08:14:14] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18908, l='ServerLevel[world]', x=202.50, y=73.00, z=2511.50]
+[08:14:21] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18923, l='ServerLevel[world]', x=179.50, y=74.00, z=2515.50]
+[08:14:31] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/18973, l='ServerLevel[world]', x=275.50, y=79.00, z=2648.50]
+[08:14:43] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19036, l='ServerLevel[world]', x=215.50, y=77.00, z=2557.50]
+[08:14:50] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19068, l='ServerLevel[world]', x=254.50, y=76.00, z=2631.50]
+[08:14:53] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19073, l='ServerLevel[world]', x=268.50, y=79.00, z=2645.50]
+[08:14:56] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19078, l='ServerLevel[world]', x=229.50, y=74.00, z=2551.50]
+[08:15:33] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19205, l='ServerLevel[world]', x=239.50, y=79.00, z=2611.50]
+[08:15:34] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19206, l='ServerLevel[world]', x=264.50, y=79.00, z=2629.50]
+[08:16:09] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19388, l='ServerLevel[world]', x=278.50, y=79.00, z=2633.50]
+[08:16:24] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19414, l='ServerLevel[world]', x=237.50, y=79.00, z=2610.50]
+[08:16:27] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19427, l='ServerLevel[world]', x=277.50, y=79.00, z=2647.50]
+[08:16:31] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19435, l='ServerLevel[world]', x=268.50, y=75.00, z=2621.50]
+[08:16:36] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19444, l='ServerLevel[world]', x=266.50, y=79.00, z=2645.50]
+[08:18:03] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19724, l='ServerLevel[world]', x=266.50, y=75.00, z=2619.50]
+[08:18:19] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19816, l='ServerLevel[world]', x=266.50, y=79.00, z=2646.50]
+[08:18:20] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/19818, l='ServerLevel[world]', x=236.50, y=79.00, z=2616.50]
+[08:20:06] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/20009, l='ServerLevel[world]', x=227.50, y=75.00, z=2583.50]
