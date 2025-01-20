@@ -1,9 +1,9 @@
-[09:26:28] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[09:26:29] [ForkJoinPool-1-worker-2/WARN]: Mod mr_reds_morestructures uses the version 1.0.8R which isn't compatible with Loader's extended semantic version format (Could not parse version number component '8R'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[09:26:29] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[09:26:29] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[09:28:01] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[09:28:01] [ForkJoinPool-1-worker-1/WARN]: Mod mr_reds_morestructures uses the version 1.0.8R which isn't compatible with Loader's extended semantic version format (Could not parse version number component '8R'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[09:28:01] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[09:28:01] [ForkJoinPool-1-worker-1/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 12
-[09:26:29] [main/INFO]: Loading 163 mods:
+[09:28:01] [main/INFO]: Loading 164 mods:
 	- amendments 1.20-1.2.14
 	- appleskin 2.5.1+mc1.20
 	- aquamirae 6
@@ -148,6 +148,7 @@
 	- jade 11.12.0+fabric
 	- java 17
 	- jei 15.20.0.106
+	- konkrete 1.8.1
 	- libraryferret 4.0.0
 	- lithostitched 1.4
 	- mcwwindows 2.3.0
@@ -194,87 +195,88 @@
 	- visualworkbench 8.0.0
 	- yungsapi 1.20-Fabric-4.0.6
 	   \-- org_javassist_javassist 3.29.2-GA
-[09:26:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[09:26:30] [main/INFO]: Compatibility level set to JAVA_17
-[09:26:30] [main/WARN]: Reference map 'CerbonsAPI-Fabric-1.20.1-fabric-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[09:26:30] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
-[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found dust.mixins.json:ClientWorldAccessor from mod cavedust
-[09:26:31] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
-[09:26:31] [main/WARN]: @Mixin target net.minecraft.class_340 was not found dust.mixins.json:MixinDebugScreenOverlay from mod cavedust
-[09:26:32] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[09:26:32] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[09:26:32] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[09:26:32] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[09:26:32] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[09:26:32] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[09:26:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[09:26:45] [main/INFO]: Loaded config amendments-common.json
-[09:26:45] [main/INFO]: Reflections took 56 ms to scan 1 urls, producing 1 keys and 1 values
-[09:26:46] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
-[09:26:46] [main/INFO]: Creating directory for additional Better Nether Fortresses configuration at /workspaces/servermc/servidor_minecraft/config/betterfortresses/fabric-1_20
-[09:26:46] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[09:26:46] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[09:26:46] [main/INFO]: Brutal bosses initialized
-[09:26:46] [main/INFO]: Generating Bushier Flowers
-[09:26:46] [main/INFO]: Loading Collective version 7.87.
-[09:26:46] [main/INFO]: Loaded config for: cupboard.json
-[09:26:46] [main/INFO]: Constructing common components for diagonalblocks:main
-[09:26:46] [main/INFO]: Constructing common components for diagonalfences:main
-[09:26:46] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 68ms
-[09:26:46] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 65ms
-[09:26:46] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 143ms
-[09:26:47] [main/INFO]: Hello Fabric world!
-[09:26:47] [main/INFO]: Constructing common components for easyanvils:main
-[09:26:47] [main/INFO]: Constructing common components for easymagic:main
-[09:26:47] [main/ERROR]: No data fixer registered for rotten_tomato
-[09:26:47] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[09:26:47] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
-[09:26:47] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
-[09:26:47] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[09:26:48] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[09:26:48] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[09:26:49] [main/ERROR]: No data fixer registered for anomaly
-[09:26:49] [main/ERROR]: No data fixer registered for season_sensor
-[09:26:49] [main/INFO]: Loaded config immersive_weathering-common.json
-[09:26:49] [main/INFO]: Initialize mod Library Ferret
-[09:26:49] [main/INFO]: Initialized mod Library Ferret
-[09:26:49] [main/INFO]: Definitely not up to no good
-[09:26:49] [main/INFO]: Giving mobs a fresh coat of paint...
-[09:26:50] [main/INFO]: Constructing common components for puzzleslib:main
-[09:26:50] [main/INFO]: Reflections took 26 ms to scan 1 urls, producing 6 keys and 40 values
-[09:26:50] [main/INFO]: Reflections took 14 ms to scan 1 urls, producing 6 keys and 40 values
-[09:26:50] [main/INFO]: Registering Ribbit instruments...
-[09:26:50] [main/INFO]: Registering Ribbit umbrella types...
-[09:26:50] [main/INFO]: Registering Ribbit professions...
-[09:26:50] [main/INFO]: Registering Ribbit data serializers...
-[09:26:50] [main/INFO]: Loaded config supplementaries-common.json
-[09:26:51] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[09:26:51] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[09:26:51] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[09:26:51] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[09:26:51] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[09:26:51] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[09:26:51] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[09:26:51] [main/INFO]: !?
-[09:26:51] [main/INFO]: Registering Mod Items for torchesntrinkets
-[09:26:51] [main/INFO]: Registering Item Groups fortorchesntrinkets
-[09:26:51] [main/ERROR]: No data fixer registered for 
-[09:26:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[09:26:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[09:26:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[09:26:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[09:26:51] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[09:26:51] [main/INFO]: Constructing common components for visualworkbench:main
-[09:26:51] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 4 values
-[09:26:51] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 4 values
-[09:26:51] [main/ERROR]: Failed to start the minecraft server
+[09:28:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/servermc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[09:28:02] [main/INFO]: Compatibility level set to JAVA_17
+[09:28:02] [main/WARN]: Reference map 'CerbonsAPI-Fabric-1.20.1-fabric-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:28:02] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[09:28:03] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[09:28:03] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[09:28:03] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[09:28:03] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[09:28:03] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[09:28:03] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[09:28:03] [main/WARN]: Error loading class: net/minecraft/class_638$class_5271 (java.lang.ClassNotFoundException: net/minecraft/class_638$class_5271)
+[09:28:03] [main/WARN]: @Mixin target net.minecraft.class_638$class_5271 was not found dust.mixins.json:ClientWorldAccessor from mod cavedust
+[09:28:03] [main/WARN]: Error loading class: net/minecraft/class_340 (java.lang.ClassNotFoundException: net/minecraft/class_340)
+[09:28:03] [main/WARN]: @Mixin target net.minecraft.class_340 was not found dust.mixins.json:MixinDebugScreenOverlay from mod cavedust
+[09:28:03] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[09:28:04] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[09:28:04] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[09:28:04] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[09:28:04] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[09:28:04] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[09:28:04] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[09:28:17] [main/INFO]: Loaded config amendments-common.json
+[09:28:17] [main/INFO]: Reflections took 51 ms to scan 1 urls, producing 1 keys and 1 values
+[09:28:17] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values
+[09:28:18] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[09:28:18] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[09:28:18] [main/INFO]: Brutal bosses initialized
+[09:28:18] [main/INFO]: Generating Bushier Flowers
+[09:28:18] [main/INFO]: Loading Collective version 7.87.
+[09:28:18] [main/INFO]: Loaded config for: cupboard.json
+[09:28:18] [main/INFO]: Constructing common components for diagonalblocks:main
+[09:28:18] [main/INFO]: Constructing common components for diagonalfences:main
+[09:28:18] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 94ms
+[09:28:18] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 81ms
+[09:28:18] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 146ms
+[09:28:18] [main/INFO]: Hello Fabric world!
+[09:28:18] [main/INFO]: Constructing common components for easyanvils:main
+[09:28:19] [main/INFO]: Constructing common components for easymagic:main
+[09:28:19] [main/ERROR]: No data fixer registered for rotten_tomato
+[09:28:19] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[09:28:19] [main/INFO]: Registering C2S receiver with id ftbultimine:key_pressed
+[09:28:19] [main/INFO]: Registering C2S receiver with id ftbultimine:mode_changed
+[09:28:19] [main/INFO]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[09:28:21] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[09:28:21] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[09:28:21] [main/ERROR]: No data fixer registered for anomaly
+[09:28:21] [main/ERROR]: No data fixer registered for season_sensor
+[09:28:21] [main/INFO]: Loaded config immersive_weathering-common.json
+[09:28:21] [main/INFO]: [KONKRETE] Successfully initialized!
+[09:28:21] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[09:28:21] [main/INFO]: Initialize mod Library Ferret
+[09:28:21] [main/INFO]: Initialized mod Library Ferret
+[09:28:21] [main/INFO]: Definitely not up to no good
+[09:28:21] [main/INFO]: Giving mobs a fresh coat of paint...
+[09:28:21] [main/INFO]: Constructing common components for puzzleslib:main
+[09:28:22] [main/INFO]: Reflections took 26 ms to scan 1 urls, producing 6 keys and 40 values
+[09:28:22] [main/INFO]: Reflections took 18 ms to scan 1 urls, producing 6 keys and 40 values
+[09:28:22] [main/INFO]: Registering Ribbit instruments...
+[09:28:22] [main/INFO]: Registering Ribbit umbrella types...
+[09:28:22] [main/INFO]: Registering Ribbit professions...
+[09:28:22] [main/INFO]: Registering Ribbit data serializers...
+[09:28:22] [main/INFO]: Loaded config supplementaries-common.json
+[09:28:23] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[09:28:23] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[09:28:23] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[09:28:23] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[09:28:23] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[09:28:23] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[09:28:23] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[09:28:23] [main/INFO]: !?
+[09:28:23] [main/INFO]: Registering Mod Items for torchesntrinkets
+[09:28:23] [main/INFO]: Registering Item Groups fortorchesntrinkets
+[09:28:23] [main/ERROR]: No data fixer registered for 
+[09:28:23] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[09:28:23] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[09:28:23] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[09:28:23] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[09:28:23] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[09:28:23] [main/INFO]: Constructing common components for visualworkbench:main
+[09:28:23] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[09:28:23] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[09:28:23] [main/ERROR]: Failed to start the minecraft server
 java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'better_totem_of_undying' at 'com.cerbon.better_totem_of_undying.fabric.BetterTotemOfUndyingFabric'!
 	at net.fabricmc.loader.impl.FabricLoaderImpl.lambda$invokeEntrypoints$2(FabricLoaderImpl.java:403) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.util.ExceptionUtil.gatherExceptions(ExceptionUtil.java:33) ~[fabric-loader-0.16.3.jar:?]
