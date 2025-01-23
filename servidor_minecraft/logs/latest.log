@@ -1163,3 +1163,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [06:22:02] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/31280, l='ServerLevel[world]', x=228.50, y=71.00, z=-499.50]
 [06:26:25] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
 [06:26:25] [Server thread/INFO]: Th1ngsWASD left the game
+[06:43:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:43:28] [Server thread/INFO]: STOP<--[HERE]
+[06:43:38] [Server thread/INFO]: Stopping the server
+[06:43:38] [Server thread/INFO]: Stopping server
+[06:43:38] [Server thread/INFO]: Saving players
+[06:43:38] [Server thread/INFO]: Saving worlds
+[06:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:43:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:43:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:43:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:43:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:43:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:43:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
