@@ -1021,3 +1021,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:49:52] [Server thread/INFO]: Th1ngsWASD joined the game
 [21:50:16] [Server thread/INFO]: Teleported Th1ngsWASD to 27.500000, 152.000000, -926.500000
 [22:05:51] [Server thread/INFO]: Th1ngsWASD has made the advancement [Spooky Scary Skeleton]
+[22:31:41] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
+[22:31:41] [Server thread/INFO]: Th1ngsWASD left the game
