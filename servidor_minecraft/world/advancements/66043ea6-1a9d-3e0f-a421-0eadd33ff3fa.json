@@ -55,6 +55,7 @@
       "jacaranda_glade": "2025-01-23 22:50:28 +0000",
       "maple_woods": "2025-01-23 04:48:43 +0000",
       "orchard": "2025-01-23 05:09:37 +0000",
+      "mediterranean_forest": "2025-01-23 23:33:25 +0000",
       "coniferous_forest": "2025-01-21 02:19:08 +0000",
       "aspen_glade": "2025-01-21 01:26:26 +0000",
       "dune_beach": "2025-01-23 23:07:03 +0000",
@@ -578,6 +579,7 @@
       "minecraft:river": "2025-01-21 02:11:52 +0000",
       "minecraft:cold_ocean": "2025-01-21 02:17:27 +0000",
       "minecraft:forest": "2025-01-21 02:19:27 +0000",
+      "minecraft:savanna": "2025-01-23 23:33:24 +0000",
       "minecraft:plains": "2025-01-21 02:10:21 +0000"
     },
     "done": false
@@ -3098,9 +3100,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-23 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-23 23:39:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-01-23 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-01-23 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-23 23:39:06 +0000"
     },
     "done": true
   },
@@ -3113,6 +3139,12 @@
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-01-23 23:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-23 23:41:03 +0000"
     },
     "done": true
   },
