@@ -1076,3 +1076,27 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:37:57] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [04:37:57] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [04:37:57] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[05:17:15] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [41, -53], pos: class_2339{x=657, y=-103, z=-848}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[05:17:15] [Worker-Main-3/ERROR]: Detected setBlock in a far chunk [41, -53], pos: class_2339{x=657, y=-102, z=-848}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[05:21:57] [Server thread/INFO]: Th1ngsWASD has made the advancement [Cover Me with Diamonds]
+[05:29:44] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_christmas], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains_fortified]] from pos class_2338{x=629, y=67, z=-827}
+[05:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3528ms or 70 ticks behind
+[05:29:50] [Server thread/WARN]: Th1ngsWASD moved too quickly! 6.505723887951717,4.166109260938214,6.722845103472537
+[05:30:03] [Worker-Main-16/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[05:30:03] [Worker-Main-16/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[05:30:03] [Worker-Main-16/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05:30:07] [Server thread/WARN]: Th1ngsWASD moved too quickly! 5.488181033750948,0.0,8.493534706357195
+[05:30:07] [Worker-Main-10/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05:30:07] [Worker-Main-10/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[05:30:07] [Worker-Main-10/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[05:30:11] [Worker-Main-16/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[05:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6073ms or 121 ticks behind
+[05:30:13] [Server thread/WARN]: Th1ngsWASD moved too quickly! 10.148245132943885,-1.0,-1.3173572922557923
+[05:30:16] [Worker-Main-16/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[05:30:16] [Worker-Main-16/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[05:30:17] [Worker-Main-16/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[05:30:23] [Server thread/WARN]: Th1ngsWASD moved too quickly! 9.920555062518702,0.5800000131130219,-1.3411688168793034
+[05:30:23] [Worker-Main-2/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[05:30:26] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> j
+[05:30:39] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [48, -42], pos: class_2339{x=768, y=-54, z=-672}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[05:30:39] [Worker-Main-16/ERROR]: Detected setBlock in a far chunk [48, -42], pos: class_2339{x=768, y=-53, z=-672}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
