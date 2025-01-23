@@ -1153,3 +1153,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:50:52] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/20203, l='ServerLevel[world]', x=340.50, y=69.00, z=-428.50]
 [05:50:56] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/20247, l='ServerLevel[world]', x=279.50, y=80.00, z=-516.50]
 [05:51:32] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/20437, l='ServerLevel[world]', x=335.50, y=77.00, z=-453.50]
+[06:06:45] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/24606, l='ServerLevel[world]', x=277.50, y=79.00, z=-506.50]
+[06:08:59] [Worker-Main-3/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[06:12:48] [pool-4-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains]] from pos class_2338{x=21, y=107, z=-1211}
+[06:16:04] [Worker-Main-16/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[06:19:57] [Server thread/INFO]: Th1ngsWASD fell from a high place
+[06:19:57] [Server thread/INFO]: Created new backpack backup file for Th1ngsWASD with unique ID travelersbackpack.diamond_23.01.2025-06.19.57.dat
+[06:19:57] [Server thread/INFO]: Your backpack has been placed at X: -81 Y: 36 Z: -1034
+[06:22:02] [Server thread/WARN]: UUID of added entity already exists: class_1540['Falling Hanging Coconut'/31280, l='ServerLevel[world]', x=228.50, y=71.00, z=-499.50]
+[06:26:25] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
+[06:26:25] [Server thread/INFO]: Th1ngsWASD left the game
