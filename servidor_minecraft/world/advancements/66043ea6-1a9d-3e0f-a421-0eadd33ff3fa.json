@@ -50,6 +50,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-01-23 04:27:45 +0000",
+      "maple_woods": "2025-01-23 04:48:43 +0000",
       "coniferous_forest": "2025-01-21 02:19:08 +0000",
       "aspen_glade": "2025-01-21 01:26:26 +0000",
       "seasonal_forest": "2025-01-21 02:12:52 +0000",
@@ -1811,6 +1812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-23 04:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-23 04:21:16 +0000"
@@ -1844,6 +1851,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-23 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-01-23 04:48:51 +0000"
     },
     "done": true
   },
