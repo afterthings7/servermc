@@ -1035,3 +1035,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:10:36] [Server thread/INFO]: Th1ngsWASD lost connection: Timed out
 [23:10:36] [Server thread/INFO]: Th1ngsWASD left the game
 [23:10:36] [Server thread/WARN]: handleDisconnection() called twice
+[23:18:30] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:54205] logged in with entity id 21884 at (-385.1597643452401, 61.0, -1648.9006476792745)
+[23:18:30] [Server thread/INFO]: Syncing config to Th1ngsWASD (66043ea6-1a9d-3e0f-a421-0eadd33ff3fa)
+[23:18:30] [Server thread/INFO]: Loading config from file...
+[23:18:30] [Server thread/INFO]: Th1ngsWASD joined the game
+[23:19:58] [Worker-Main-81/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[23:20:29] [Worker-Main-82/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[23:22:55] [Worker-Main-88/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[23:23:19] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna]] from pos class_2338{x=53, y=74, z=-2117}
+[23:23:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=53, y=74, z=-2117} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[23:23:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location class_2338{x=53, y=74, z=-2117}
