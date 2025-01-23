@@ -1025,6 +1025,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-21 02:27:21 +0000",
       "minecraft:spider": "2025-01-23 04:29:12 +0000",
+      "minecraft:creeper": "2025-01-23 21:36:24 +0000",
+      "minecraft:wither_skeleton": "2025-01-23 21:34:55 +0000",
       "minecraft:zombie": "2025-01-21 02:19:35 +0000",
       "minecraft:drowned": "2025-01-21 02:31:15 +0000",
       "minecraft:zombie_villager": "2025-01-23 21:20:06 +0000"
@@ -2900,6 +2902,18 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-23 21:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-23 21:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-23 21:29:57 +0000"
     },
     "done": true
   },
