@@ -2966,6 +2966,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/azalea_leaves": {
+    "criteria": {
+      "has_copper_block": "2025-01-23 22:07:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-23 22:05:51 +0000"
