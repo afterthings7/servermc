@@ -1010,3 +1010,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[21:48:14] [Server thread/INFO]: Th1ngsWASD was doomed to fall
+[21:48:14] [Server thread/INFO]: Created new backpack backup file for Th1ngsWASD with unique ID travelersbackpack.diamond_23.01.2025-21.48.14.dat
+[21:48:14] [Server thread/INFO]: Your backpack has been placed at X: 27 Y: 152 Z: -927
+[21:48:52] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
+[21:48:52] [Server thread/INFO]: Th1ngsWASD left the game
+[21:49:52] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:32929] logged in with entity id 7142 at (18.338286404269624, 76.0, -2.953435432584138)
+[21:49:52] [Server thread/INFO]: Syncing config to Th1ngsWASD (66043ea6-1a9d-3e0f-a421-0eadd33ff3fa)
+[21:49:52] [Server thread/INFO]: Loading config from file...
+[21:49:52] [Server thread/INFO]: Th1ngsWASD joined the game
+[21:50:16] [Server thread/INFO]: Teleported Th1ngsWASD to 27.500000, 152.000000, -926.500000
