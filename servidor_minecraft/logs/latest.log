@@ -1365,3 +1365,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:30:11] [Server thread/WARN]: Th1ngsWASD moved wrongly!
 [01:38:43] [Server thread/INFO]: Named entity class_5419['Samuel the Pit Master'/62346, l='ServerLevel[world]', x=-29.30, y=35.00, z=-462.79] died: Samuel the Pit Master was slain by Th1ngsWASD
 [01:39:39] [Server thread/INFO]: Th1ngsWASD has made the advancement [Hidden in the Depths]
+[01:47:39] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
+[01:47:39] [Server thread/INFO]: Th1ngsWASD left the game
+[01:51:21] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:38297] logged in with entity id 64446 at (-1907.3912439229337, 145.5625, -3415.5468634633708)
+[01:51:21] [Server thread/INFO]: Syncing config to Th1ngsWASD (66043ea6-1a9d-3e0f-a421-0eadd33ff3fa)
+[01:51:21] [Server thread/INFO]: Loading config from file...
+[01:51:21] [Server thread/INFO]: Th1ngsWASD joined the game
