@@ -1041,6 +1041,7 @@
       "minecraft:piglin_brute": "2025-01-24 00:54:08 +0000",
       "minecraft:creeper": "2025-01-23 21:36:24 +0000",
       "minecraft:slime": "2025-01-23 21:36:46 +0000",
+      "minecraft:zombified_piglin": "2025-01-24 02:15:49 +0000",
       "minecraft:wither_skeleton": "2025-01-23 21:34:55 +0000",
       "minecraft:husk": "2025-01-23 23:26:03 +0000",
       "minecraft:piglin": "2025-01-24 00:54:01 +0000",
@@ -3776,6 +3777,48 @@
   "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-24 01:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 02:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-24 02:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 02:17:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2025-01-24 02:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-24 02:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-01-24 02:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-24 02:04:05 +0000"
     },
     "done": true
   },

@@ -1371,3 +1371,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:51:21] [Server thread/INFO]: Syncing config to Th1ngsWASD (66043ea6-1a9d-3e0f-a421-0eadd33ff3fa)
 [01:51:21] [Server thread/INFO]: Loading config from file...
 [01:51:21] [Server thread/INFO]: Th1ngsWASD joined the game
+[02:04:05] [Server thread/INFO]: Th1ngsWASD has made the advancement [A Terrible Fortress]
+[02:07:13] [Server thread/INFO]: Named entity class_1639['Fenire the Fiery'/66816, l='ServerLevel[world]', x=-455.35, y=74.00, z=-413.08] died: Fenire the Fiery was slain by Th1ngsWASD
+[02:10:12] [Server thread/INFO]: Named entity class_5419['Samuel the Pit Master'/66797, l='ServerLevel[world]', x=-429.36, y=64.00, z=-307.43] died: Samuel the Pit Master was shot by Th1ngsWASD
