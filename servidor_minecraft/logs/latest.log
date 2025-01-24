@@ -1684,3 +1684,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [02:39:35] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
 [02:39:35] [Server thread/INFO]: Th1ngsWASD left the game
+[02:45:17] [Server thread/INFO]: Stopping the server
+[02:45:17] [Server thread/INFO]: Stopping server
+[02:45:17] [Server thread/INFO]: Saving players
+[02:45:17] [Server thread/INFO]: Saving worlds
+[02:45:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:45:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
