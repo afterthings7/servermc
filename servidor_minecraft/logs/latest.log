@@ -483,3 +483,16 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 [01:08:20] [Worker-Main-2/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
 [01:09:54] [Server thread/INFO]: Named entity class_1634['Kex the Mean'/2092, l='ServerLevel[world]', x=-1930.20, y=23.87, z=-4650.96] died: Kex the Mean starved to death
 [01:10:40] [Server thread/INFO]: Th1ngsWASD has made the advancement [Guns and Roses]
+[01:22:56] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
+[01:22:56] [Server thread/INFO]: Th1ngsWASD left the game
+[01:23:00] [Server thread/INFO]: Stopping the server
+[01:23:00] [Server thread/INFO]: Stopping server
+[01:23:00] [Server thread/INFO]: Saving players
+[01:23:00] [Server thread/INFO]: Saving worlds
+[01:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:23:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:23:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
