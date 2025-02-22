@@ -881,3 +881,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [00:19:21] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[00:27:56] [Worker-Main-1/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[00:32:47] [Server thread/INFO]: Villager class_1646['Whitney'/4182, l='ServerLevel[world]', x=-1845.72, y=75.00, z=-4272.63] died, message: 'Whitney suffocated in a wall'
+[00:32:47] [Server thread/INFO]: Named entity class_1646['Whitney'/4182, l='ServerLevel[world]', x=-1845.72, y=75.00, z=-4272.63] died: Whitney suffocated in a wall
+[00:32:53] [Worker-Main-3/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[00:33:34] [Worker-Main-1/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[00:33:46] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[00:33:47] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_christmas], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain_alpine]] from pos class_2338{x=-2085, y=71, z=-4421}
+[00:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6851ms or 137 ticks behind
