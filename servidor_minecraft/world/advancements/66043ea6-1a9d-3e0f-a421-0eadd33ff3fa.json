@@ -3837,5 +3837,59 @@
     },
     "done": true
   },
+  "bushierflowers:recipes/grown_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-02-22 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-02-22 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-22 00:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-22 00:51:18 +0000"
+    },
+    "done": true
+  },
+  "bushierflowers:recipes/grown_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-22 00:51:18 +0000"
+    },
+    "done": true
+  },
+  "bushierflowers:recipes/grown_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-22 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-22 00:51:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-02-22 01:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 01:08:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
