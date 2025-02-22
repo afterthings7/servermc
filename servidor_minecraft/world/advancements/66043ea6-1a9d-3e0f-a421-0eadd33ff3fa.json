@@ -59,6 +59,8 @@
       "orchard": "2025-01-23 05:09:37 +0000",
       "mediterranean_forest": "2025-01-23 23:33:25 +0000",
       "coniferous_forest": "2025-01-21 02:19:08 +0000",
+      "spider_nest": "2025-02-22 00:39:10 +0000",
+      "redwood_forest": "2025-02-22 00:33:28 +0000",
       "aspen_glade": "2025-01-21 01:26:26 +0000",
       "dune_beach": "2025-01-23 23:07:03 +0000",
       "seasonal_forest": "2025-01-21 02:12:52 +0000",
@@ -3828,6 +3830,12 @@
       "in_mineshaft_stone": "2025-02-08 20:56:04 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-02-22 00:38:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
