@@ -1654,7 +1654,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-02 08:05:02 +0000",
       "minecraft:nether_wastes": "2025-03-02 04:29:13 +0000",
-      "minecraft:basalt_deltas": "2025-03-02 04:31:49 +0000"
+      "minecraft:basalt_deltas": "2025-03-02 04:31:49 +0000",
+      "minecraft:warped_forest": "2025-03-02 18:46:02 +0000"
     },
     "done": false
   },

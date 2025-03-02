@@ -683,6 +683,7 @@
     "criteria": {
       "minecraft:blaze": "2025-03-02 18:21:18 +0000",
       "minecraft:skeleton": "2025-03-02 03:37:14 +0000",
+      "minecraft:piglin": "2025-03-02 18:46:08 +0000",
       "minecraft:enderman": "2025-03-02 18:30:04 +0000",
       "minecraft:magma_cube": "2025-03-02 18:26:53 +0000",
       "minecraft:spider": "2025-03-02 03:33:13 +0000",
@@ -1450,7 +1451,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-03-02 18:19:13 +0000",
-      "minecraft:basalt_deltas": "2025-03-02 18:19:34 +0000"
+      "minecraft:basalt_deltas": "2025-03-02 18:19:34 +0000",
+      "minecraft:warped_forest": "2025-03-02 18:46:22 +0000"
     },
     "done": false
   },
@@ -1559,6 +1561,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-02 18:47:35 +0000"
     },
     "done": true
   },
