@@ -681,9 +681,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-03-02 18:21:18 +0000",
       "minecraft:skeleton": "2025-03-02 03:37:14 +0000",
+      "minecraft:enderman": "2025-03-02 18:30:04 +0000",
+      "minecraft:magma_cube": "2025-03-02 18:26:53 +0000",
       "minecraft:spider": "2025-03-02 03:33:13 +0000",
-      "minecraft:zombie": "2025-03-02 03:41:26 +0000"
+      "minecraft:zombie": "2025-03-02 03:41:26 +0000",
+      "minecraft:drowned": "2025-03-02 18:33:16 +0000"
     },
     "done": false
   },
@@ -1468,6 +1472,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-02 18:21:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-02 18:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-03-02 18:20:49 +0000"
@@ -1480,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-02 18:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-02 18:16:44 +0000"
@@ -1489,6 +1511,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-02 18:21:53 +0000"
     },
     "done": true
   },
@@ -1513,6 +1541,18 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-03-02 18:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-02 18:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-02 18:21:53 +0000"
     },
     "done": true
   },
