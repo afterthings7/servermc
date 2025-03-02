@@ -19,7 +19,8 @@
       "minecraft:sunflower_plains": "2025-03-02 19:24:50 +0000",
       "minecraft:meadow": "2025-03-02 19:36:27 +0000",
       "minecraft:birch_forest": "2025-03-02 18:06:56 +0000",
-      "minecraft:plains": "2025-03-02 03:07:58 +0000"
+      "minecraft:plains": "2025-03-02 03:07:58 +0000",
+      "minecraft:jagged_peaks": "2025-03-02 19:57:59 +0000"
     },
     "done": false
   },
@@ -1613,6 +1614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-02 20:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-02 18:19:13 +0000"
@@ -1874,6 +1881,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-02 19:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-02 20:02:36 +0000"
     },
     "done": true
   },
