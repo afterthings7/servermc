@@ -7,9 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-03-02 17:57:00 +0000",
       "minecraft:beach": "2025-03-02 03:41:55 +0000",
       "minecraft:forest": "2025-03-02 03:42:11 +0000",
       "minecraft:river": "2025-03-02 03:25:45 +0000",
+      "minecraft:birch_forest": "2025-03-02 18:06:56 +0000",
       "minecraft:plains": "2025-03-02 03:07:58 +0000"
     },
     "done": false
@@ -1405,15 +1407,118 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-02 17:33:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-02 17:36:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
-      "has_glow_ink_sac": "2025-03-02 17:33:34 +0000"
+      "has_yellow_wool": "2025-03-02 18:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-02 18:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-02 18:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-03-02 18:19:13 +0000",
+      "minecraft:basalt_deltas": "2025-03-02 18:19:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-02 18:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-02 18:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-02 18:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-02 18:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-03-02 18:20:49 +0000"
     },
     "done": true
   },
