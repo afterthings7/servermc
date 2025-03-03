@@ -274,6 +274,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-03 04:33:45 +0000",
       "minecraft:zombified_piglin": "2025-03-02 04:44:11 +0000",
       "minecraft:zombie": "2025-03-03 04:20:24 +0000",
       "minecraft:zombie_villager": "2025-03-02 03:46:52 +0000"
@@ -406,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-03 04:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-03-03 04:13:03 +0000"
@@ -481,6 +488,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-03-03 04:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-03 04:39:02 +0000"
     },
     "done": true
   },
