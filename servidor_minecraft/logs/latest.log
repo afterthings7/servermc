@@ -29,3 +29,14 @@
 [13:03:03] [Server thread/INFO]: mater left the game
 [13:09:29] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
 [13:09:29] [Server thread/INFO]: Th1ngsWASD left the game
+[13:13:31] [Server thread/INFO]: Stopping the server
+[13:13:31] [Server thread/INFO]: Stopping server
+[13:13:31] [Server thread/INFO]: Saving players
+[13:13:31] [Server thread/INFO]: Saving worlds
+[13:13:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:13:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:13:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:13:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:13:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:13:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:13:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
