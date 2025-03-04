@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-04 02:53:22 +0000",
       "minecraft:flower_forest": "2025-03-02 17:57:00 +0000",
       "minecraft:beach": "2025-03-02 03:41:55 +0000",
       "minecraft:dark_forest": "2025-03-02 19:34:02 +0000",
@@ -694,16 +695,17 @@
     "criteria": {
       "minecraft:blaze": "2025-03-02 18:21:18 +0000",
       "minecraft:skeleton": "2025-03-02 03:37:14 +0000",
-      "minecraft:piglin": "2025-03-02 18:46:08 +0000",
       "minecraft:phantom": "2025-03-02 19:31:48 +0000",
       "minecraft:zombified_piglin": "2025-03-02 18:56:13 +0000",
+      "minecraft:ender_dragon": "2025-03-02 20:37:51 +0000",
+      "minecraft:piglin": "2025-03-02 18:46:08 +0000",
       "minecraft:enderman": "2025-03-02 18:30:04 +0000",
       "minecraft:silverfish": "2025-03-02 19:48:01 +0000",
       "minecraft:magma_cube": "2025-03-02 18:26:53 +0000",
       "minecraft:spider": "2025-03-02 03:33:13 +0000",
       "minecraft:zombie": "2025-03-02 03:41:26 +0000",
       "minecraft:drowned": "2025-03-02 18:33:16 +0000",
-      "minecraft:ender_dragon": "2025-03-02 20:37:51 +0000"
+      "minecraft:zombie_villager": "2025-03-04 03:01:56 +0000"
     },
     "done": false
   },
@@ -2080,6 +2082,60 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-03-03 05:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-04 02:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-04 02:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-04 02:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 03:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 03:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 03:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 03:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 03:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-04 03:04:05 +0000"
     },
     "done": true
   },

@@ -23,3 +23,13 @@
 [02:31:17] [Server thread/INFO]: iFeelingsBOT joined the game
 [02:41:51] [Server thread/INFO]: ZedesWASD has made the advancement [Isn't It Iron Pick]
 [02:43:27] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> 47 75 202
+[02:52:34] [Server thread/INFO]: iFeelingsBOT lost connection: Timed out
+[02:52:34] [Server thread/INFO]: iFeelingsBOT left the game
+[02:52:34] [Server thread/WARN]: handleDisconnection() called twice
+[02:52:35] [Server thread/INFO]: ZedesWASD lost connection: Timed out
+[02:52:35] [Server thread/INFO]: ZedesWASD left the game
+[02:52:54] [Server thread/INFO]: ZedesWASD[/127.245.44.190:52415] logged in with entity id 6448 at (42.44344633366924, 62.110764312744145, 508.8384542326837)
+[02:52:54] [Server thread/INFO]: ZedesWASD joined the game
+[02:53:00] [Server thread/INFO]: iFeelingsBOT[/127.245.44.190:44159] logged in with entity id 6635 at (56.482101194870694, 62.110764312744145, 463.2761447949275)
+[02:53:00] [Server thread/INFO]: iFeelingsBOT joined the game
+[03:02:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=76, y=70, z=231} jd{x=75, y=70, z=230}
