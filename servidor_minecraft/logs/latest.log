@@ -24,3 +24,6 @@
 [16:59:03] [Server thread/INFO]: Th1ngsWASD left the game
 [17:07:27] [Server thread/INFO]: ZedesWASD[/127.88.182.192:43305] logged in with entity id 714 at (104.95108661945325, 66.5, 251.34905888862582)
 [17:07:27] [Server thread/INFO]: ZedesWASD joined the game
+[17:20:57] [Server thread/INFO]: ZedesWASD lost connection: Timed out
+[17:20:57] [Server thread/INFO]: ZedesWASD left the game
+[17:20:58] [Server thread/WARN]: handleDisconnection() called twice
