@@ -1,59 +1,21 @@
-[02:09:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:09:13] [ServerMain/INFO]: Loaded 1290 recipes
-[02:09:14] [ServerMain/INFO]: Loaded 1399 advancements
-[02:09:14] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:09:14] [Server thread/INFO]: Loading properties
-[02:09:14] [Server thread/INFO]: Default game type: SURVIVAL
-[02:09:14] [Server thread/INFO]: Generating keypair
-[02:09:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:09:15] [Server thread/INFO]: Using epoll channel type
-[02:09:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:09:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:09:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:09:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:09:15] [Server thread/INFO]: Preparing level "world"
-[02:09:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:09:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:09:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:09:21] [Server thread/INFO]: Time elapsed: 759 ms
-[02:09:21] [Server thread/INFO]: Done (6.160s)! For help, type "help"
-[02:26:17] [Server thread/INFO]: ZedesWASD[/127.245.44.190:34113] logged in with entity id 46 at (104.5, 72.0, 252.5)
-[02:26:17] [Server thread/INFO]: ZedesWASD joined the game
-[02:31:17] [Server thread/INFO]: iFeelingsBOT[/127.245.44.190:54581] logged in with entity id 924 at (60.78545438730498, 73.0, 202.32758930209863)
-[02:31:17] [Server thread/INFO]: iFeelingsBOT joined the game
-[02:41:51] [Server thread/INFO]: ZedesWASD has made the advancement [Isn't It Iron Pick]
-[02:43:27] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> 47 75 202
-[02:52:34] [Server thread/INFO]: iFeelingsBOT lost connection: Timed out
-[02:52:34] [Server thread/INFO]: iFeelingsBOT left the game
-[02:52:34] [Server thread/WARN]: handleDisconnection() called twice
-[02:52:35] [Server thread/INFO]: ZedesWASD lost connection: Timed out
-[02:52:35] [Server thread/INFO]: ZedesWASD left the game
-[02:52:54] [Server thread/INFO]: ZedesWASD[/127.245.44.190:52415] logged in with entity id 6448 at (42.44344633366924, 62.110764312744145, 508.8384542326837)
-[02:52:54] [Server thread/INFO]: ZedesWASD joined the game
-[02:53:00] [Server thread/INFO]: iFeelingsBOT[/127.245.44.190:44159] logged in with entity id 6635 at (56.482101194870694, 62.110764312744145, 463.2761447949275)
-[02:53:00] [Server thread/INFO]: iFeelingsBOT joined the game
-[03:02:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=76, y=70, z=231} jd{x=75, y=70, z=230}
-[03:14:09] [Server thread/INFO]: ZedesWASD has made the advancement [Stone Age]
-[03:19:27] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
-[03:19:27] [Server thread/INFO]: ZedesWASD left the game
-[03:19:59] [Server thread/INFO]: ZedesWASD[/127.245.44.190:47723] logged in with entity id 12192 at (63.44563610229928, 67.0, 275.29966969805844)
-[03:19:59] [Server thread/INFO]: ZedesWASD joined the game
-[03:30:18] [Server thread/INFO]: iFeelingsBOT has made the advancement [What a Deal!]
-[03:31:16] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
-[03:31:16] [Server thread/INFO]: ZedesWASD left the game
-[03:31:42] [Server thread/INFO]: ZedesWASD[/127.245.44.190:50457] logged in with entity id 15125 at (102.08168451255143, 67.5, 250.5912900220721)
-[03:31:42] [Server thread/INFO]: ZedesWASD joined the game
-[03:49:07] [Server thread/WARN]: ZedesWASD moved too quickly! 5.091000532977006,0.41999998688697815,8.933203832944827
-[03:53:11] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
-[03:53:11] [Server thread/INFO]: iFeelingsBOT left the game
-[03:55:50] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
-[03:55:50] [Server thread/INFO]: ZedesWASD left the game
-[03:56:33] [Server thread/INFO]: iFeelingsBOT[/127.245.44.190:34757] logged in with entity id 19793 at (59.81457339666111, 75.0, 203.53059586732843)
-[03:56:33] [Server thread/INFO]: iFeelingsBOT joined the game
-[04:02:11] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
-[04:02:11] [Server thread/INFO]: iFeelingsBOT left the game
-[04:21:43] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:35885] logged in with entity id 23232 at (109.42135482207694, 67.0, 265.5141604765744)
-[04:21:43] [Server thread/INFO]: Th1ngsWASD joined the game
-[04:25:55] [Server thread/INFO]: Th1ngsWASD has made the advancement [Take Aim]
-[04:26:34] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
-[04:26:34] [Server thread/INFO]: Th1ngsWASD left the game
+[12:21:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:21:13] [ServerMain/INFO]: Loaded 1290 recipes
+[12:21:14] [ServerMain/INFO]: Loaded 1399 advancements
+[12:21:14] [Server thread/INFO]: Starting minecraft server version 1.21
+[12:21:14] [Server thread/INFO]: Loading properties
+[12:21:14] [Server thread/INFO]: Default game type: SURVIVAL
+[12:21:14] [Server thread/INFO]: Generating keypair
+[12:21:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:21:15] [Server thread/INFO]: Using epoll channel type
+[12:21:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:21:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:21:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:21:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:21:15] [Server thread/INFO]: Preparing level "world"
+[12:21:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:21:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:21:21] [Server thread/INFO]: Time elapsed: 699 ms
+[12:21:21] [Server thread/INFO]: Done (6.519s)! For help, type "help"
+[12:22:27] [Server thread/INFO]: Th1ngsWASD[/127.165.158.168:35139] logged in with entity id 44 at (72.58349685487794, 74.9375, 196.4758508363793)
+[12:22:27] [Server thread/INFO]: Th1ngsWASD joined the game
