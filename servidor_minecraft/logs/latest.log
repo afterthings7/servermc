@@ -1,150 +1,28 @@
-[02:36:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:36:17] [ServerMain/INFO]: Loaded 1290 recipes
-[02:36:17] [ServerMain/INFO]: Loaded 1399 advancements
-[02:36:18] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:36:18] [Server thread/INFO]: Loading properties
-[02:36:18] [Server thread/INFO]: Default game type: SURVIVAL
-[02:36:18] [Server thread/INFO]: Generating keypair
-[02:36:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:36:18] [Server thread/INFO]: Using epoll channel type
-[02:36:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:36:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:36:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:36:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:36:18] [Server thread/INFO]: Preparing level "world"
-[02:36:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:36:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:36:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:36:27] [Server thread/INFO]: Time elapsed: 811 ms
-[02:36:27] [Server thread/INFO]: Done (9.372s)! For help, type "help"
-[02:40:01] [Server thread/INFO]: ZedesWASD[/127.146.79.91:47265] logged in with entity id 5 at (98.4165971577872, 66.0, 271.26215414150056)
-[02:40:02] [Server thread/INFO]: ZedesWASD joined the game
-[02:42:47] [Server thread/INFO]: ZedesWASD lost connection: Timed out
-[02:42:47] [Server thread/INFO]: ZedesWASD left the game
-[02:42:47] [Server thread/WARN]: handleDisconnection() called twice
-[03:44:56] [Server thread/INFO]: No player was found
-[03:46:19] [Server thread/INFO]: ZedesWASD[/127.165.187.201:46855] logged in with entity id 1915 at (101.43363430003014, 64.0, 271.0460326249905)
-[03:46:19] [Server thread/INFO]: ZedesWASD joined the game
-[03:46:51] [Server thread/INFO]: You whisper to ZedesWASD: cuñao
-[03:48:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:48:19] [Server thread/INFO]: [A<--[HERE]
-[03:48:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:48:22] [Server thread/INFO]: j<--[HERE]
-[04:03:24] [Server thread/INFO]: ZedesWASD has made the advancement [Voluntary Exile]
-[04:08:51] [Server thread/INFO]: No player was found
-[04:20:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=84, y=71, z=230} jd{x=85, y=69, z=230}
-[04:41:53] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:59525] logged in with entity id 13612 at (98.39186685792491, 65.49520087700593, 265.5170627017876)
-[04:41:53] [Server thread/INFO]: iFeelingsBOT joined the game
-[04:43:05] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> la pala
-[04:43:27] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> daaaaaaa
-[04:43:32] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> casi q no la cuenta
-[04:43:36] [Server thread/INFO]: [Not Secure] <ZedesWASD> jajajajajajaj
-[04:44:14] [Server thread/INFO]: [Not Secure] <ZedesWASD> te la estaba guardando
-[04:45:19] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> duerme ahi
-[04:45:27] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
-[04:45:27] [Server thread/INFO]: ZedesWASD left the game
-[04:45:43] [Server thread/INFO]: ZedesWASD[/127.165.187.201:57645] logged in with entity id 14167 at (104.36774413295285, 67.0, 249.357107503536)
-[04:45:43] [Server thread/INFO]: ZedesWASD joined the game
-[04:46:33] [Server thread/INFO]: You whisper to iFeelingsBOT: gays
-[04:46:33] [Server thread/INFO]: You whisper to ZedesWASD: gays
-[04:47:03] [Server thread/INFO]: You whisper to iFeelingsBOT: puedo ver el chat si escriben AWDJJADJAWDJAWJD
-[04:47:03] [Server thread/INFO]: You whisper to ZedesWASD: puedo ver el chat si escriben AWDJJADJAWDJAWJD
-[04:47:20] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> usted siga estudiando omb
-[04:47:29] [Server thread/INFO]: You whisper to iFeelingsBOT: no
-[04:47:29] [Server thread/INFO]: You whisper to ZedesWASD: no
-[04:47:46] [Server thread/INFO]: [Not Secure] <ZedesWASD> puto el que lo lea y el que lo sigue leyendo
-[04:48:04] [Server thread/INFO]: You whisper to iFeelingsBOT: No
-[04:48:04] [Server thread/INFO]: You whisper to ZedesWASD: No
-[04:48:07] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> sebas da risa pq dura em pila pa escribi AJAJAJAJJAJAJA
-[04:48:22] [Server thread/INFO]: [Not Secure] <ZedesWASD> ;c
-[04:48:55] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> ei q si pillaron al barbero q mataron en la otra calle
-[04:49:07] [Server thread/INFO]: [Not Secure] <ZedesWASD> si
-[04:49:13] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> pobrecito pai
-[04:49:15] [Server thread/INFO]: You whisper to iFeelingsBOT: ya es todo un viejotell iFeelingsBOT, ZedesWASDtell iFeelingsBOT, ZedesWASD ya es todo un viejito
-[04:49:15] [Server thread/INFO]: You whisper to ZedesWASD: ya es todo un viejotell iFeelingsBOT, ZedesWASDtell iFeelingsBOT, ZedesWASD ya es todo un viejito
-[04:49:27] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> el era el q mutilaba a aaron
-[04:49:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:49:29] [Server thread/INFO]: t<--[HERE]
-[04:49:43] [Server thread/INFO]: Kicked iFeelingsBOT: gay
-[04:49:43] [Server thread/INFO]: iFeelingsBOT lost connection: gay
-[04:49:43] [Server thread/INFO]: iFeelingsBOT left the game
-[04:49:55] [Server thread/INFO]: You whisper to ZedesWASD: JAJAJAJAJAJAJAJAA
-[04:50:10] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:43321] logged in with entity id 14765 at (93.26403597378919, 69.0, 226.69999998807907)
-[04:50:10] [Server thread/INFO]: iFeelingsBOT joined the game
-[04:50:20] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> juan dabi q mnda
-[04:50:29] [Server thread/INFO]: You whisper to ZedesWASD: te quiero bro
-[04:50:29] [Server thread/INFO]: You whisper to iFeelingsBOT: te quiero bro
-[04:50:43] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> daa el seba esta haciendo qle mansion
-[04:52:37] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:38061] logged in with entity id 15100 at (113.56883881737917, 67.0, 261.3457537337629)
-[04:52:37] [Server thread/INFO]: Th1ngsWASD joined the game
-[04:52:49] [Server thread/INFO]: [Not Secure] <ZedesWASD> necesito madera
-[04:53:02] [Server thread/INFO]: [Not Secure] <ZedesWASD> traiganme porfa
-[04:53:07] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> que lindo es que todos ya puedan jugar en java
-[04:53:29] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> y ya se pueda hacer granjas y servers sin que nadie se quede afuera por no tener pc
-[04:55:36] [Server thread/INFO]: [Not Secure] <ZedesWASD> quitate echeeeeeeeee
-[04:55:39] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> No
-[04:55:53] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> xd
-[04:56:04] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> se quedo reflexionando
-[04:56:10] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> pero la queria tanto...
-[04:56:19] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> que daba igual...
-[04:56:44] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> la paciencia de seba AJWDAJWDJAWJDJAWDj
-[04:58:32] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> grosero
-[04:58:38] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> jajaja
-[04:58:52] [Server thread/INFO]: [Not Secure] <ZedesWASD> hp
-[05:02:09] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> seba
-[05:02:17] [Server thread/INFO]: [Not Secure] <ZedesWASD> que
-[05:02:27] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> haz esto pa hacerlo ma rapido
-[05:02:43] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> subete y vas mirando hacia abajo
-[05:02:56] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> pero agachado
-[05:03:28] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> tienes comida
-[05:03:29] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> ?
-[05:03:36] [Server thread/INFO]: [Not Secure] <ZedesWASD> no
-[05:04:56] [Server thread/INFO]: [Not Secure] <ZedesWASD> necesito madera
-[05:05:04] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> no tengo dxdxdxdxdx
-[05:05:14] [Server thread/INFO]: [Not Secure] <ZedesWASD> haz el piso
-[05:05:21] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> voy a seguir estudiando
-[05:05:25] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> mañana juego despues de la u
-[05:05:29] [Server thread/INFO]: [Not Secure] <ZedesWASD> joa
-[05:05:38] [Server thread/INFO]: [Not Secure] <ZedesWASD> dale pue
-[05:05:43] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> siuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
-[05:05:55] [Server thread/INFO]: Kicked Th1ngsWASD: gay
-[05:05:55] [Server thread/INFO]: Th1ngsWASD lost connection: gay
-[05:05:55] [Server thread/INFO]: Th1ngsWASD left the game
-[05:17:51] [Server thread/INFO]: ZedesWASD was slain by Zombie
-[05:18:34] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> ven a dormir
-[05:19:01] [Server thread/INFO]: ZedesWASD was slain by Zombie
-[05:19:30] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> donde estas
-[05:25:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=574, y=64, z=163} jd{x=574, y=62, z=163}
-[05:25:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=574, y=65, z=163} jd{x=575, y=62, z=165}
-[05:30:03] [Server thread/INFO]: [Not Secure] <ZedesWASD> oe
-[05:30:06] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> q
-[05:30:13] [Server thread/INFO]: [Not Secure] <ZedesWASD> duerme
-[05:30:15] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
-[05:30:15] [Server thread/INFO]: iFeelingsBOT left the game
-[05:30:30] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:43093] logged in with entity id 23611 at (633.5379260359601, 66.0, 232.8851880525021)
-[05:30:30] [Server thread/INFO]: iFeelingsBOT joined the game
-[05:38:05] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> qle casua pa una cama
-[05:38:08] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> juao chicos
-[05:38:20] [Server thread/INFO]: [Not Secure] <ZedesWASD> jajajajaja
-[05:38:35] [Server thread/INFO]: [Not Secure] <ZedesWASD> es para que estemos todos
-[05:39:31] [Server thread/INFO]: [Not Secure] <ZedesWASD> consigue madera ahi
-[05:41:32] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> duerme
-[05:42:55] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> ya repare toda la armadura cn reparacion
-[05:45:39] [Server thread/INFO]: [Not Secure] <ZedesWASD> oe
-[05:45:42] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> q
-[05:45:47] [Server thread/INFO]: [Not Secure] <ZedesWASD> me voy
-[05:46:06] [Server thread/INFO]: [Not Secure] <ZedesWASD> tengo clases mañana
-[05:46:08] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> abrete
-[05:46:36] [Server thread/INFO]: [Not Secure] <ZedesWASD> si puedes me consigues madera
-[05:46:41] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> no
-[05:47:01] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
-[05:47:01] [Server thread/INFO]: ZedesWASD left the game
-[06:02:33] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
-[06:02:33] [Server thread/INFO]: iFeelingsBOT left the game
-[06:05:51] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:35429] logged in with entity id 33343 at (70.72471372901447, 73.0, 213.56334877883876)
-[06:05:51] [Server thread/INFO]: iFeelingsBOT joined the game
-[06:07:51] [Server thread/INFO]: iFeelingsBOT has made the advancement [Voluntary Exile]
-[06:35:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-105, y=64, z=781} jd{x=-104, y=62, z=782}
-[06:40:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-272, y=68, z=850} jd{x=-272, y=66, z=851}
-[06:53:19] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
-[06:53:19] [Server thread/INFO]: iFeelingsBOT left the game
+[16:47:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:47:13] [ServerMain/INFO]: Loaded 1290 recipes
+[16:47:14] [ServerMain/INFO]: Loaded 1399 advancements
+[16:47:15] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:47:15] [Server thread/INFO]: Loading properties
+[16:47:15] [Server thread/INFO]: Default game type: SURVIVAL
+[16:47:15] [Server thread/INFO]: Generating keypair
+[16:47:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:47:16] [Server thread/INFO]: Using epoll channel type
+[16:47:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:47:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:47:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:47:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:47:16] [Server thread/INFO]: Preparing level "world"
+[16:47:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:47:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:47:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:47:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:47:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:47:31] [Server thread/INFO]: Time elapsed: 1716 ms
+[16:47:31] [Server thread/INFO]: Done (15.540s)! For help, type "help"
+[16:47:56] [Server thread/INFO]: Th1ngsWASD[/127.165.158.168:50963] logged in with entity id 42 at (105.86968142652034, 67.0, 246.48750001192093)
+[16:47:56] [Server thread/INFO]: Th1ngsWASD joined the game
+[16:48:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[16:55:20] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
+[16:55:20] [Server thread/INFO]: Th1ngsWASD left the game
+[16:55:53] [Server thread/INFO]: Th1ngsWASD[/127.165.158.168:44329] logged in with entity id 1755 at (110.24341172513057, 14.0, 535.3299046918901)
+[16:55:53] [Server thread/INFO]: Th1ngsWASD joined the game
