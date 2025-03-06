@@ -32,3 +32,4 @@
 [03:48:22] [Server thread/INFO]: j<--[HERE]
 [04:03:24] [Server thread/INFO]: ZedesWASD has made the advancement [Voluntary Exile]
 [04:08:51] [Server thread/INFO]: No player was found
+[04:20:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=84, y=71, z=230} jd{x=85, y=69, z=230}
