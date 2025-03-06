@@ -116,3 +116,10 @@
 [05:19:30] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> donde estas
 [05:25:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=574, y=64, z=163} jd{x=574, y=62, z=163}
 [05:25:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=574, y=65, z=163} jd{x=575, y=62, z=165}
+[05:30:03] [Server thread/INFO]: [Not Secure] <ZedesWASD> oe
+[05:30:06] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> q
+[05:30:13] [Server thread/INFO]: [Not Secure] <ZedesWASD> duerme
+[05:30:15] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
+[05:30:15] [Server thread/INFO]: iFeelingsBOT left the game
+[05:30:30] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:43093] logged in with entity id 23611 at (633.5379260359601, 66.0, 232.8851880525021)
+[05:30:30] [Server thread/INFO]: iFeelingsBOT joined the game
