@@ -145,3 +145,6 @@
 [06:05:51] [Server thread/INFO]: iFeelingsBOT joined the game
 [06:07:51] [Server thread/INFO]: iFeelingsBOT has made the advancement [Voluntary Exile]
 [06:35:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-105, y=64, z=781} jd{x=-104, y=62, z=782}
+[06:40:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-272, y=68, z=850} jd{x=-272, y=66, z=851}
+[06:53:19] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
+[06:53:19] [Server thread/INFO]: iFeelingsBOT left the game
