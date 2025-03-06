@@ -277,6 +277,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-06 04:03:24 +0000",
       "minecraft:skeleton": "2025-03-03 04:33:45 +0000",
       "minecraft:zombified_piglin": "2025-03-02 04:44:11 +0000",
       "minecraft:spider": "2025-03-04 02:31:45 +0000",
@@ -1201,6 +1202,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-05 02:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-06 04:03:24 +0000"
     },
     "done": true
   },
