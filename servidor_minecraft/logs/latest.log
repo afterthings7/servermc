@@ -144,3 +144,4 @@
 [06:05:51] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:35429] logged in with entity id 33343 at (70.72471372901447, 73.0, 213.56334877883876)
 [06:05:51] [Server thread/INFO]: iFeelingsBOT joined the game
 [06:07:51] [Server thread/INFO]: iFeelingsBOT has made the advancement [Voluntary Exile]
+[06:35:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-105, y=64, z=781} jd{x=-104, y=62, z=782}
