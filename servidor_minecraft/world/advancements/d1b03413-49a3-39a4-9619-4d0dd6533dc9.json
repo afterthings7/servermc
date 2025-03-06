@@ -263,6 +263,7 @@
       "chicken": "2025-03-02 04:50:06 +0000",
       "bread": "2025-03-02 03:47:15 +0000",
       "potato": "2025-03-04 02:34:58 +0000",
+      "beef": "2025-03-06 04:52:15 +0000",
       "porkchop": "2025-03-02 04:49:34 +0000",
       "beetroot": "2025-03-03 04:17:31 +0000",
       "carrot": "2025-03-03 04:15:25 +0000"
@@ -1220,6 +1221,24 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-03-06 04:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-06 04:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-06 04:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-06 04:52:12 +0000"
     },
     "done": true
   },
