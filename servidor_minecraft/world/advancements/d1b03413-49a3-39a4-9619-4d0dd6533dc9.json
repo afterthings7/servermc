@@ -261,6 +261,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-02 03:41:27 +0000",
+      "mutton": "2025-03-07 19:31:44 +0000",
       "chicken": "2025-03-02 04:50:06 +0000",
       "bread": "2025-03-02 03:47:15 +0000",
       "potato": "2025-03-04 02:34:58 +0000",
@@ -1348,6 +1349,30 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-06 05:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-07 19:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-07 19:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-03-07 19:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-03-07 19:31:42 +0000"
     },
     "done": true
   },
