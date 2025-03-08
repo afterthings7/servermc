@@ -2351,5 +2351,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-03-08 02:46:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
