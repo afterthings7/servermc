@@ -1,98 +1,61 @@
-[01:06:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:06:55] [ServerMain/INFO]: Loaded 1290 recipes
-[01:06:56] [ServerMain/INFO]: Loaded 1399 advancements
-[01:06:56] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:06:56] [Server thread/INFO]: Loading properties
-[01:06:56] [Server thread/INFO]: Default game type: SURVIVAL
-[01:06:56] [Server thread/INFO]: Generating keypair
-[01:06:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:06:57] [Server thread/INFO]: Using epoll channel type
-[01:06:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:06:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:06:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:06:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:06:57] [Server thread/INFO]: Preparing level "world"
-[01:07:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:07:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:04] [Server thread/INFO]: Time elapsed: 714 ms
-[01:07:04] [Server thread/INFO]: Done (7.263s)! For help, type "help"
-[01:07:56] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:35369] logged in with entity id 8 at (62.247896050647796, 73.0, 183.30145554003917)
-[01:07:56] [Server thread/INFO]: iFeelingsBOT joined the game
-[01:08:08] [Server thread/INFO]: ZedesWASD[/127.20.17.232:41487] logged in with entity id 221 at (98.38615998843204, 67.0, 272.5446766461047)
-[01:08:08] [Server thread/INFO]: ZedesWASD joined the game
-[01:11:38] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> -912 30 172
-[01:11:51] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> 1731
-[01:40:55] [Server thread/INFO]: Th1ngsWASD[/127.20.17.232:55005] logged in with entity id 15190 at (800.0662015554002, -5.0, 771.3144980957535)
-[01:40:55] [Server thread/INFO]: Th1ngsWASD joined the game
-[01:44:42] [Server thread/INFO]: Villager cmk['Villager'/19021, l='ServerLevel[world]', x=-335.17, y=67.00, z=844.66] died, message: 'Villager was slain by Zombie'
-[01:45:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-289, y=64, z=668} jd{x=-289, y=62, z=668}
-[01:47:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-547, y=64, z=869} jd{x=-547, y=62, z=869}
-[01:47:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=64, z=870} jd{x=-549, y=62, z=871}
-[01:47:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=64, z=870} jd{x=-549, y=62, z=871}
-[01:47:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=64, z=871} jd{x=-550, y=62, z=871}
-[01:48:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-565, y=64, z=793} jd{x=-565, y=62, z=793}
-[01:49:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-655, y=64, z=867} jd{x=-656, y=63, z=867}
-[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 0.44107026584219966
-[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 0.5526685519881767
-[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 0.6922982603421133
-[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 0.8570296999034781
-[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 1.0
-[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 1.0
-[01:53:57] [Server thread/INFO]: ZedesWASD lost connection: Timed out
-[01:53:57] [Server thread/INFO]: ZedesWASD left the game
-[01:53:57] [Server thread/WARN]: handleDisconnection() called twice
-[02:02:09] [Server thread/INFO]: Seed: [6759885532899347788]
-[02:02:21] [Server thread/INFO]: You whisper to iFeelingsBOT: gay
-[02:02:21] [Server thread/INFO]: You whisper to Th1ngsWASD: gay
-[02:03:43] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> 6759885532899347788
-[02:07:38] [Server thread/INFO]: iFeelingsBOT has made the advancement [Remote Getaway]
-[02:08:32] [Server thread/INFO]: ZedesWASD[/127.20.17.232:52679] logged in with entity id 37456 at (98.47119021849257, 67.0, 247.2150738115176)
-[02:08:32] [Server thread/INFO]: ZedesWASD joined the game
-[02:11:06] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> -214 -1548
-[02:12:24] [Server thread/WARN]: ZedesWASD moved too quickly! 5.587853331870235,1.0,8.331331229122725
-[02:13:28] [Server thread/INFO]: ZedesWASD has made the advancement [Best Friends Forever]
-[02:20:16] [Server thread/INFO]: iFeelingsBOT has made the advancement [The City at the End of the Game]
-[02:21:00] [Server thread/INFO]: iFeelingsBOT has reached the goal [Sky's the Limit]
-[02:23:05] [Server thread/INFO]: Th1ngsWASD fell from a high place
-[02:29:51] [Server thread/INFO]: iFeelingsBOT fell from a high place
-[02:31:53] [Server thread/INFO]: Teleported iFeelingsBOT to -209.500000, 102.000000, -15016.500000
-[02:31:56] [Server thread/WARN]: iFeelingsBOT moved too quickly! -1.6286560487494341,-10.806526110008988,-0.4201351436568075
-[02:31:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
-[02:32:27] [Server thread/INFO]: Teleported iFeelingsBOT to -911.500000, 30.000000, 1731.500000
-[02:32:57] [Server thread/INFO]: Teleported iFeelingsBOT to -209.500000, 102.000000, -1516.500000
-[02:33:03] [Server thread/WARN]: iFeelingsBOT moved too quickly! 0.0,-10.806526110008988,0.0
-[02:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5631ms or 112 ticks behind
-[02:33:04] [Server thread/INFO]: iFeelingsBOT fell from a high place
-[02:37:35] [Server thread/INFO]: Made Th1ngsWASD a server operator
-[02:38:50] [Server thread/INFO]: [Th1ngsWASD: Teleported iFeelingsBOT to -209.500000, 102.000000, -1516.500000]
-[02:39:32] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
-[02:39:32] [Server thread/INFO]: iFeelingsBOT left the game
-[02:39:59] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:58585] logged in with entity id 65156 at (-208.30817844672322, 87.5, -1518.0149931705726)
-[02:39:59] [Server thread/INFO]: iFeelingsBOT joined the game
-[02:43:54] [Server thread/INFO]: [Th1ngsWASD: Applied effect Nausea to ZedesWASD]
-[02:44:14] [Server thread/INFO]: [Th1ngsWASD: Applied effect Nausea to ZedesWASD]
-[02:55:39] [Server thread/INFO]: [Th1ngsWASD: Teleported iFeelingsBOT to 79.500000, 70.000000, 226.500000]
-[03:00:37] [Server thread/WARN]: ZedesWASD moved too quickly! 2.3999033750978214,-1.4641593749554431,-9.631066688157887
-[03:02:20] [Server thread/INFO]: Th1ngsWASD has reached the goal [Sky's the Limit]
-[03:04:19] [Server thread/INFO]: ZedesWASD has reached the goal [Sky's the Limit]
-[03:04:46] [Server thread/INFO]: Th1ngsWASD has made the advancement [What a Deal!]
-[03:12:55] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
-[03:12:55] [Server thread/INFO]: iFeelingsBOT left the game
-[03:13:03] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
-[03:13:03] [Server thread/INFO]: ZedesWASD left the game
-[03:13:14] [Server thread/INFO]: ZedesWASD[/127.20.17.232:59037] logged in with entity id 84790 at (100.51014862813606, 72.0, 274.5095679716203)
-[03:13:14] [Server thread/INFO]: ZedesWASD joined the game
-[03:13:20] [Server thread/INFO]: Stopping the server
-[03:13:20] [Server thread/INFO]: Stopping server
-[03:13:20] [Server thread/INFO]: Saving players
-[03:13:20] [Server thread/INFO]: ZedesWASD lost connection: Server closed
-[03:13:20] [Server thread/INFO]: ZedesWASD left the game
-[03:13:20] [Server thread/INFO]: Saving worlds
-[03:13:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:13:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:13:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:13:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:13:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:13:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:13:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:14:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:14:23] [ServerMain/INFO]: Loaded 1290 recipes
+[03:14:23] [ServerMain/INFO]: Loaded 1399 advancements
+[03:14:24] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:14:24] [Server thread/INFO]: Loading properties
+[03:14:24] [Server thread/INFO]: Default game type: SURVIVAL
+[03:14:24] [Server thread/INFO]: Generating keypair
+[03:14:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:14:24] [Server thread/INFO]: Using epoll channel type
+[03:14:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:14:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:14:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:14:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:14:24] [Server thread/INFO]: Preparing level "world"
+[03:14:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:14:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:14:33] [Server thread/INFO]: Time elapsed: 779 ms
+[03:14:33] [Server thread/INFO]: Done (9.374s)! For help, type "help"
+[03:14:34] [Server thread/INFO]: ZedesWASD[/127.20.17.232:35869] logged in with entity id 23 at (100.51014862813606, 72.0, 274.5095679716203)
+[03:14:35] [Server thread/INFO]: ZedesWASD joined the game
+[03:15:07] [Server thread/INFO]: Th1ngsWASD[/127.20.17.232:56715] logged in with entity id 255 at (118.5, 66.0, 241.5)
+[03:15:07] [Server thread/INFO]: Th1ngsWASD joined the game
+[03:15:26] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:45525] logged in with entity id 304 at (57.23714394779259, 64.0, 313.26755815036864)
+[03:15:26] [Server thread/INFO]: iFeelingsBOT joined the game
+[03:36:13] [Server thread/INFO]: Villager cmk['Mason'/153, l='ServerLevel[world]', x=44.14, y=72.94, z=225.21] died, message: 'Mason was slain by ZedesWASD'
+[03:36:33] [Server thread/WARN]: ZedesWASD moved too quickly! -2.855229353567495,0.0,9.776099193654403
+[04:17:41] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
+[04:17:41] [Server thread/INFO]: Th1ngsWASD left the game
+[04:18:55] [Server thread/INFO]: ZedesWASD lost connection: Timed out
+[04:18:55] [Server thread/INFO]: ZedesWASD left the game
+[04:18:55] [Server thread/WARN]: handleDisconnection() called twice
+[04:25:32] [Server thread/INFO]: iFeelingsBOT lost connection: Timed out
+[04:25:32] [Server thread/INFO]: iFeelingsBOT left the game
+[04:36:44] [Server thread/INFO]: ZedesWASD[/127.53.146.43:54227] logged in with entity id 20666 at (47.34522497410847, 67.0, 308.1109124248855)
+[04:36:44] [Server thread/INFO]: ZedesWASD joined the game
+[04:38:31] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:57421] logged in with entity id 21203 at (66.02606681300875, 74.0, 171.30000001192093)
+[04:38:31] [Server thread/INFO]: Th1ngsWASD joined the game
+[04:43:28] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:47909] logged in with entity id 22099 at (98.4443139044151, 72.0, 247.9546236810121)
+[04:43:28] [Server thread/INFO]: iFeelingsBOT joined the game
+[04:46:07] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
+[04:46:07] [Server thread/INFO]: ZedesWASD left the game
+[04:46:22] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> Pq se fue
+[04:46:25] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> idk
+[04:47:59] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> donde estas
+[04:48:13] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> farmeando polvora pa los cohetes
+[04:49:44] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> i need madera
+[04:50:29] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> voy a subirle los chunks al sv
+[04:50:39] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> lo reiniciare un momento
+[04:51:15] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> okay?
+[04:54:20] [Server thread/INFO]: Stopping the server
+[04:54:20] [Server thread/INFO]: Stopping server
+[04:54:20] [Server thread/INFO]: Saving players
+[04:54:20] [Server thread/INFO]: Saving worlds
+[04:54:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:54:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:54:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:54:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
