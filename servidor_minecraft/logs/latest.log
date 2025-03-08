@@ -21,3 +21,7 @@
 [18:35:57] [Server thread/INFO]: Done (13.610s)! For help, type "help"
 [18:45:32] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:48729] logged in with entity id 39 at (39.99342085829932, 78.0, 181.24395401334885)
 [18:45:32] [Server thread/INFO]: Th1ngsWASD joined the game
+[19:05:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=47, y=72, z=182} jd{x=49, y=73, z=180}
+[19:08:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=71, z=180} jd{x=48, y=71, z=180}
+[19:10:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=71, z=180} jd{x=53, y=74, z=187}
+[19:21:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=72, z=176} jd{x=47, y=73, z=175}
