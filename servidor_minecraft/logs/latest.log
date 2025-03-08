@@ -77,3 +77,22 @@
 [03:02:20] [Server thread/INFO]: Th1ngsWASD has reached the goal [Sky's the Limit]
 [03:04:19] [Server thread/INFO]: ZedesWASD has reached the goal [Sky's the Limit]
 [03:04:46] [Server thread/INFO]: Th1ngsWASD has made the advancement [What a Deal!]
+[03:12:55] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
+[03:12:55] [Server thread/INFO]: iFeelingsBOT left the game
+[03:13:03] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
+[03:13:03] [Server thread/INFO]: ZedesWASD left the game
+[03:13:14] [Server thread/INFO]: ZedesWASD[/127.20.17.232:59037] logged in with entity id 84790 at (100.51014862813606, 72.0, 274.5095679716203)
+[03:13:14] [Server thread/INFO]: ZedesWASD joined the game
+[03:13:20] [Server thread/INFO]: Stopping the server
+[03:13:20] [Server thread/INFO]: Stopping server
+[03:13:20] [Server thread/INFO]: Saving players
+[03:13:20] [Server thread/INFO]: ZedesWASD lost connection: Server closed
+[03:13:20] [Server thread/INFO]: ZedesWASD left the game
+[03:13:20] [Server thread/INFO]: Saving worlds
+[03:13:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:13:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:13:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:13:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:13:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:13:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:13:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
