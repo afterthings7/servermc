@@ -23,3 +23,22 @@
 [01:08:08] [Server thread/INFO]: ZedesWASD joined the game
 [01:11:38] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> -912 30 172
 [01:11:51] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> 1731
+[01:40:55] [Server thread/INFO]: Th1ngsWASD[/127.20.17.232:55005] logged in with entity id 15190 at (800.0662015554002, -5.0, 771.3144980957535)
+[01:40:55] [Server thread/INFO]: Th1ngsWASD joined the game
+[01:44:42] [Server thread/INFO]: Villager cmk['Villager'/19021, l='ServerLevel[world]', x=-335.17, y=67.00, z=844.66] died, message: 'Villager was slain by Zombie'
+[01:45:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-289, y=64, z=668} jd{x=-289, y=62, z=668}
+[01:47:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-547, y=64, z=869} jd{x=-547, y=62, z=869}
+[01:47:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=64, z=870} jd{x=-549, y=62, z=871}
+[01:47:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=64, z=870} jd{x=-549, y=62, z=871}
+[01:47:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=64, z=871} jd{x=-550, y=62, z=871}
+[01:48:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-565, y=64, z=793} jd{x=-565, y=62, z=793}
+[01:49:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-655, y=64, z=867} jd{x=-656, y=63, z=867}
+[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 0.44107026584219966
+[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 0.5526685519881767
+[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 0.6922982603421133
+[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 0.8570296999034781
+[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 1.0
+[01:49:35] [Server thread/WARN]: Oak Boat (vehicle of iFeelingsBOT) moved wrongly! 1.0
+[01:53:57] [Server thread/INFO]: ZedesWASD lost connection: Timed out
+[01:53:57] [Server thread/INFO]: ZedesWASD left the game
+[01:53:57] [Server thread/WARN]: handleDisconnection() called twice
