@@ -88,3 +88,44 @@
 [20:56:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=75, z=136} jd{x=60, y=76, z=136}
 [20:56:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=77, z=159} jd{x=44, y=76, z=159}
 [20:56:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=77, z=159} jd{x=44, y=76, z=159}
+[20:57:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=79, y=74, z=159} jd{x=79, y=71, z=159}
+[20:58:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=40, y=73, z=156} jd{x=40, y=72, z=157}
+[20:58:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=37, y=72, z=157} jd{x=38, y=71, z=157}
+[20:58:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=73, z=132} jd{x=52, y=73, z=134}
+[20:58:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=52, y=72, z=132} jd{x=51, y=73, z=132}
+[20:58:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=54, y=73, z=132} jd{x=54, y=71, z=132}
+[20:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=135} jd{x=63, y=73, z=135}
+[20:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=74, z=136} jd{x=64, y=74, z=137}
+[20:58:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=65, y=73, z=134} jd{x=64, y=72, z=133}
+[20:58:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=78, y=72, z=157} jd{x=75, y=72, z=155}
+[20:59:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=82, y=71, z=160} jd{x=83, y=71, z=160}
+[20:59:21] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:52933] logged in with entity id 47494 at (57.181099820367955, 74.0, 185.89907097479713)
+[20:59:21] [Server thread/INFO]: iFeelingsBOT joined the game
+[20:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=74, z=157} jd{x=56, y=72, z=157}
+[20:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=74, z=157} jd{x=55, y=74, z=158}
+[20:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=74, z=157} jd{x=55, y=74, z=158}
+[20:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=74, z=157} jd{x=55, y=74, z=158}
+[20:59:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=46, y=74, z=152} jd{x=46, y=73, z=152}
+[21:00:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=74, z=149} jd{x=66, y=74, z=156}
+[21:01:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=51, y=74, z=154} jd{x=52, y=74, z=154}
+[21:01:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=47, y=74, z=148} jd{x=46, y=72, z=147}
+[21:01:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=47, y=74, z=147} jd{x=47, y=74, z=148}
+[21:01:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=47, y=74, z=147} jd{x=47, y=74, z=148}
+[21:01:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=47, y=74, z=147} jd{x=47, y=74, z=148}
+[21:01:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=47, y=74, z=147} jd{x=47, y=74, z=148}
+[21:01:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=57, y=74, z=154} jd{x=56, y=74, z=152}
+[21:02:34] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> ya te carga bien los chunks?
+[21:02:41] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> nose no he vito
+[21:03:20] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> creo q si
+[21:04:10] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> duerme
+[21:04:23] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> uwu
+[21:04:56] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> necesito pila de hierro
