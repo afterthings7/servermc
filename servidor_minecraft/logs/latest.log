@@ -84,3 +84,7 @@
 [20:40:50] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> gracias bro
 [20:43:47] [Server thread/INFO]: iFeelingsBOT lost connection: Disconnected
 [20:43:47] [Server thread/INFO]: iFeelingsBOT left the game
+[20:56:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=75, z=136} jd{x=60, y=76, z=136}
+[20:56:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=75, z=136} jd{x=60, y=76, z=136}
+[20:56:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=77, z=159} jd{x=44, y=76, z=159}
+[20:56:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=43, y=77, z=159} jd{x=44, y=76, z=159}
