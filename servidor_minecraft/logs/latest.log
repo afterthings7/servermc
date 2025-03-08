@@ -1,73 +1,25 @@
-[18:42:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:42:26] [ServerMain/INFO]: Loaded 1290 recipes
-[18:42:27] [ServerMain/INFO]: Loaded 1399 advancements
-[18:42:28] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:42:28] [Server thread/INFO]: Loading properties
-[18:42:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:42:28] [Server thread/INFO]: Generating keypair
-[18:42:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:42:29] [Server thread/INFO]: Using epoll channel type
-[18:42:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:42:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:42:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:42:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:42:29] [Server thread/INFO]: Preparing level "world"
-[18:42:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[18:42:39] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[18:42:39] [Server thread/INFO]: Time elapsed: 2040 ms
-[18:42:39] [Server thread/INFO]: Done (10.766s)! For help, type "help"
-[19:10:41] [Server thread/INFO]: ZedesWASD[/127.160.143.38:35431] logged in with entity id 10 at (96.83385902919078, 67.0, 242.3301973522805)
-[19:10:41] [Server thread/INFO]: ZedesWASD joined the game
-[19:27:14] [Server thread/INFO]: ZedesWASD was slain by Wolf
-[19:34:00] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:44115] logged in with entity id 5314 at (117.707592955344, 16.0, 540.4620850776262)
-[19:34:00] [Server thread/INFO]: Th1ngsWASD joined the game
-[19:34:14] [Server thread/INFO]: [Not Secure] <ZedesWASD> vro
-[19:34:41] [Server thread/INFO]: [Not Secure] <ZedesWASD> me mori y perdi todo :c
-[19:34:45] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> yo
-[19:34:53] [Server thread/INFO]: [Not Secure] <ZedesWASD> ayudaaaaaaaa
-[19:35:09] [Server thread/INFO]: [Not Secure] <ZedesWASD> no encuentro mis cosas
-[19:36:56] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> yo no encuentro las mias
-[19:38:32] [Server thread/INFO]: Th1ngsWASD drowned
-[19:38:57] [Server thread/INFO]: [Not Secure] <ZedesWASD> tas mamao
-[19:40:47] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> voy a matarme pa regenerar vida
-[19:40:53] [Server thread/INFO]: Th1ngsWASD was slain by Zombie
-[19:41:31] [Server thread/INFO]: ZedesWASD was blown up by Creeper
-[19:41:58] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> salte
-[19:42:03] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
-[19:42:03] [Server thread/INFO]: ZedesWASD left the game
-[19:43:27] [Server thread/INFO]: ZedesWASD[/127.160.143.38:57467] logged in with entity id 8174 at (108.97405377519773, 65.9375, 230.95946290140478)
-[19:43:27] [Server thread/INFO]: ZedesWASD joined the game
-[19:54:30] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> duerme si puedews
-[19:54:42] [Server thread/INFO]: [Not Secure] <ZedesWASD> ya
-[19:54:45] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
-[19:54:45] [Server thread/INFO]: Th1ngsWASD left the game
-[19:55:01] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:50191] logged in with entity id 12728 at (181.24097415808882, 61.213734296340704, 183.6644560418041)
-[19:55:01] [Server thread/INFO]: Th1ngsWASD joined the game
-[19:55:13] [Server thread/INFO]: ZedesWASD lost connection: Timed out
-[19:55:13] [Server thread/INFO]: ZedesWASD left the game
-[19:55:13] [Server thread/WARN]: handleDisconnection() called twice
-[19:55:34] [Server thread/INFO]: ZedesWASD[/127.159.36.101:35607] logged in with entity id 12949 at (108.05031829252114, 66.0, 245.4175865389448)
-[19:55:34] [Server thread/INFO]: ZedesWASD joined the game
-[19:57:10] [Server thread/INFO]: [Not Secure] <ZedesWASD> vro
-[19:57:16] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> dime
-[19:57:18] [Server thread/INFO]: [Not Secure] <ZedesWASD> trae madera
-[19:57:27] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> estoy buscando diamantes
-[19:57:31] [Server thread/INFO]: [Not Secure] <ZedesWASD> y piedra
-[19:57:43] [Server thread/INFO]: [Not Secure] <ZedesWASD> dale pue
-[20:01:04] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> voy a volverme a chetar
-[20:01:19] [Server thread/INFO]: [Not Secure] <ZedesWASD> dale pue
-[20:06:18] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> duerme
-[20:36:00] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
-[20:36:00] [Server thread/INFO]: Th1ngsWASD left the game
-[20:37:21] [Server thread/INFO]: Th1ngsWASD[/127.62.57.134:40073] logged in with entity id 28415 at (754.9303936291859, -16.0, 761.374247510894)
-[20:37:21] [Server thread/INFO]: Th1ngsWASD joined the game
-[20:37:39] [Server thread/INFO]: [Not Secure] <ZedesWASD> ahorita vengo
-[20:37:47] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> yo voy a comer
-[20:37:49] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
-[20:37:49] [Server thread/INFO]: Th1ngsWASD left the game
-[20:37:52] [Server thread/INFO]: ZedesWASD lost connection: Disconnected
-[20:37:52] [Server thread/INFO]: ZedesWASD left the game
+[01:06:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:06:55] [ServerMain/INFO]: Loaded 1290 recipes
+[01:06:56] [ServerMain/INFO]: Loaded 1399 advancements
+[01:06:56] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:06:56] [Server thread/INFO]: Loading properties
+[01:06:56] [Server thread/INFO]: Default game type: SURVIVAL
+[01:06:56] [Server thread/INFO]: Generating keypair
+[01:06:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:06:57] [Server thread/INFO]: Using epoll channel type
+[01:06:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:06:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:06:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:06:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:06:57] [Server thread/INFO]: Preparing level "world"
+[01:07:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:07:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:04] [Server thread/INFO]: Time elapsed: 714 ms
+[01:07:04] [Server thread/INFO]: Done (7.263s)! For help, type "help"
+[01:07:56] [Server thread/INFO]: iFeelingsBOT[/127.20.17.232:35369] logged in with entity id 8 at (62.247896050647796, 73.0, 183.30145554003917)
+[01:07:56] [Server thread/INFO]: iFeelingsBOT joined the game
+[01:08:08] [Server thread/INFO]: ZedesWASD[/127.20.17.232:41487] logged in with entity id 221 at (98.38615998843204, 67.0, 272.5446766461047)
+[01:08:08] [Server thread/INFO]: ZedesWASD joined the game
+[01:11:38] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> -912 30 172
+[01:11:51] [Server thread/INFO]: [Not Secure] <iFeelingsBOT> 1731
