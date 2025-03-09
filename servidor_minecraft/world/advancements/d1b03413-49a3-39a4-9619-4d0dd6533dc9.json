@@ -267,6 +267,7 @@
       "salmon": "2025-03-08 03:51:52 +0000",
       "cooked_beef": "2025-03-09 00:01:53 +0000",
       "beef": "2025-03-06 04:52:15 +0000",
+      "baked_potato": "2025-03-09 00:53:31 +0000",
       "porkchop": "2025-03-02 04:49:34 +0000",
       "beetroot": "2025-03-03 04:17:31 +0000",
       "golden_carrot": "2025-03-09 00:15:04 +0000",
@@ -1610,9 +1611,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-09 00:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_pickaxe": "2025-03-09 00:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-09 00:57:33 +0000"
     },
     "done": true
   },
