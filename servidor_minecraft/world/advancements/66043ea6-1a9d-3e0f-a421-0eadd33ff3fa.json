@@ -2749,6 +2749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-03-09 00:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-03-08 23:05:56 +0000"
@@ -2776,6 +2782,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-03-08 23:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-03-09 00:29:45 +0000"
     },
     "done": true
   },
