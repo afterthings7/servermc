@@ -169,3 +169,39 @@
 [04:45:29] [Server thread/INFO]: [Not Secure] <Yat> entra y pasa las coords desde adentro
 [04:45:52] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> 195 49 337
 [04:46:20] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> donde carajo me mando xd
+[04:49:44] [Server thread/INFO]: david[/127.7.134.32:50339] logged in with entity id 138544 at (1666.3182341756471, 64.0, 2823.1591296737415)
+[04:49:44] [Server thread/INFO]: david joined the game
+[04:50:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=1641, y=63, z=2790} jd{x=1642, y=62, z=2786}
+[04:51:14] [Server thread/INFO]: david lost connection: Timed out
+[04:51:14] [Server thread/INFO]: david left the game
+[04:51:49] [Server thread/INFO]: david[/127.7.134.32:35123] logged in with entity id 140059 at (1666.3182341756471, 64.0, 2823.1591296737415)
+[04:51:49] [Server thread/INFO]: david joined the game
+[04:52:20] [Server thread/INFO]: david lost connection: Timed out
+[04:52:20] [Server thread/INFO]: david left the game
+[04:53:01] [Server thread/INFO]: david[/127.7.134.32:39313] logged in with entity id 140755 at (1666.4058983817706, 64.0, 2822.530702615313)
+[04:53:01] [Server thread/INFO]: david joined the game
+[04:56:21] [Server thread/INFO]: david lost connection: Disconnected
+[04:56:21] [Server thread/INFO]: david left the game
+[05:02:35] [Server thread/INFO]: david[/127.7.134.32:49011] logged in with entity id 148472 at (1679.3598612769204, 64.0, 2774.283779945865)
+[05:02:35] [Server thread/INFO]: david joined the game
+[05:04:00] [Server thread/INFO]: david lost connection: Disconnected
+[05:04:00] [Server thread/INFO]: david left the game
+[05:04:34] [Server thread/INFO]: [Not Secure] <Th1ngsWASD> mañana sigo con mas tranquilidad
+[05:04:36] [Server thread/INFO]: Th1ngsWASD lost connection: Disconnected
+[05:04:36] [Server thread/INFO]: Th1ngsWASD left the game
+[05:07:51] [Server thread/INFO]: mrcristhian38 lost connection: Disconnected
+[05:07:51] [Server thread/INFO]: mrcristhian38 left the game
+[05:08:08] [Server thread/INFO]: david[/127.7.134.32:40559] logged in with entity id 152220 at (1679.3598612769204, 63.0, 2774.283779945865)
+[05:08:08] [Server thread/INFO]: david joined the game
+[05:08:24] [Server thread/INFO]: david lost connection: Disconnected
+[05:08:24] [Server thread/INFO]: david left the game
+[05:09:02] [Server thread/INFO]: Villager cmk['Librarian'/152250, l='ServerLevel[Los piperrines]', x=1650.70, y=63.00, z=2797.55] died, message: 'Librarian was slain by Zombie'
+[05:09:45] [Server thread/INFO]: Villager cmk['Librarian'/152251, l='ServerLevel[Los piperrines]', x=1650.52, y=63.00, z=2817.51] died, message: 'Librarian was slain by Zombie'
+[05:09:54] [Server thread/INFO]: Villager cmk['Fisherman'/152259, l='ServerLevel[Los piperrines]', x=1657.44, y=63.00, z=2808.26] died, message: 'Fisherman was slain by Zombie Villager'
+[05:10:25] [Server thread/INFO]: Villager cmk['Librarian'/152247, l='ServerLevel[Los piperrines]', x=1648.33, y=64.00, z=2798.72] died, message: 'Librarian was slain by Zombie Villager'
+[05:13:06] [Server thread/WARN]: Birch Boat (vehicle of janer) moved wrongly! 0.36098899913486093
+[05:13:06] [Server thread/WARN]: Birch Boat (vehicle of janer) moved wrongly! 0.760724883566354
+[05:13:39] [Server thread/INFO]: janer lost connection: Timed out
+[05:13:39] [Server thread/INFO]: janer left the game
+[05:14:16] [Server thread/INFO]: Yat lost connection: Disconnected
+[05:14:16] [Server thread/INFO]: Yat left the game
