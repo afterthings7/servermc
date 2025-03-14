@@ -384,7 +384,8 @@
       "spider_eye": "2025-03-13 18:02:36 +0000",
       "cooked_chicken": "2025-03-13 15:38:59 +0000",
       "cooked_mutton": "2025-03-13 15:52:12 +0000",
-      "cooked_beef": "2025-03-14 01:28:11 +0000"
+      "cooked_beef": "2025-03-14 01:28:11 +0000",
+      "rabbit_stew": "2025-03-14 03:10:20 +0000"
     },
     "done": false
   },
@@ -1917,6 +1918,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-14 02:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-03-14 03:10:20 +0000"
     },
     "done": true
   },
