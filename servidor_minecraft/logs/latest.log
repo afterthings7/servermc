@@ -21,3 +21,18 @@
 [18:12:29] [Server thread/INFO]: david lost connection: Timed out
 [18:12:29] [Server thread/INFO]: david left the game
 [18:12:29] [Server thread/WARN]: handleDisconnection() called twice
+[18:14:01] [Server thread/INFO]: david[/127.7.134.32:32951] logged in with entity id 1103 at (1667.1336459267122, 63.41999998688698, 2808.3070800818173)
+[18:14:01] [Server thread/INFO]: david joined the game
+[18:15:16] [Server thread/INFO]: david lost connection: Timed out
+[18:15:16] [Server thread/INFO]: david left the game
+[18:15:51] [Server thread/INFO]: david[/127.7.134.32:59971] logged in with entity id 1578 at (1651.4754898633971, 63.0, 2801.7621781788616)
+[18:15:51] [Server thread/INFO]: david joined the game
+[18:18:36] [Server thread/INFO]: david lost connection: Timed out
+[18:18:36] [Server thread/INFO]: david left the game
+[18:19:38] [Server thread/INFO]: david[/127.7.134.32:53655] logged in with entity id 2276 at (1675.1445095069794, 62.9375, 2817.302819399439)
+[18:19:38] [Server thread/INFO]: david joined the game
+[18:21:23] [Server thread/INFO]: david lost connection: Timed out
+[18:21:23] [Server thread/INFO]: david left the game
+[18:22:10] [Server thread/INFO]: david[/127.7.134.32:34155] logged in with entity id 2929 at (1640.3491574290517, 61.0, 2818.8860038709445)
+[18:22:10] [Server thread/INFO]: david joined the game
+[18:22:20] [Server thread/INFO]: david drowned
