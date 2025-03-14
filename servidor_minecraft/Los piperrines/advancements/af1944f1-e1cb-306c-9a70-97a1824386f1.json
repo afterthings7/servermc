@@ -22,6 +22,7 @@
       "minecraft:sunflower_plains": "2025-03-13 16:22:36 +0000",
       "minecraft:swamp": "2025-03-13 18:58:46 +0000",
       "minecraft:birch_forest": "2025-03-13 15:28:07 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-14 20:35:27 +0000",
       "minecraft:savanna": "2025-03-13 15:47:55 +0000",
       "minecraft:plains": "2025-03-13 15:55:23 +0000"
     },
@@ -1815,6 +1816,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-03-14 20:24:30 +0000",
       "minecraft:pig": "2025-03-14 19:13:01 +0000"
     },
     "done": false
@@ -2020,6 +2022,24 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-03-14 20:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-14 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-14 20:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-14 20:41:30 +0000"
     },
     "done": true
   },
