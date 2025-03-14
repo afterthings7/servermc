@@ -16,6 +16,7 @@
       "minecraft:deep_ocean": "2025-03-13 17:12:32 +0000",
       "minecraft:river": "2025-03-13 15:41:09 +0000",
       "minecraft:lush_caves": "2025-03-13 16:14:58 +0000",
+      "minecraft:dripstone_caves": "2025-03-14 19:41:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-13 15:41:17 +0000",
       "minecraft:ocean": "2025-03-13 17:11:24 +0000",
       "minecraft:jungle": "2025-03-13 15:54:54 +0000",
@@ -403,8 +404,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-13 16:34:30 +0000",
+      "minecraft:piglin": "2025-03-14 19:45:43 +0000",
       "minecraft:spider": "2025-03-13 16:57:38 +0000",
-      "minecraft:zombie": "2025-03-13 15:41:43 +0000"
+      "minecraft:zombie": "2025-03-13 15:41:43 +0000",
+      "minecraft:hoglin": "2025-03-14 19:33:03 +0000"
     },
     "done": false
   },
@@ -1877,7 +1880,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-14 04:39:27 +0000"
+      "minecraft:crimson_forest": "2025-03-14 04:39:27 +0000",
+      "minecraft:nether_wastes": "2025-03-14 19:43:33 +0000"
     },
     "done": false
   },
@@ -1998,6 +2002,24 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-03-14 05:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-14 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-14 19:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-14 19:41:41 +0000"
     },
     "done": true
   },
